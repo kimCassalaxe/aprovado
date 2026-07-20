@@ -1,0 +1,552 @@
+[
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é o componente de hardware considerado o 'cérebro' do computador, responsável por processar todas as instruções?",
+    "alternativa": {
+      "A": "Memória RAM",
+      "B": "Disco Rígido (HDD)",
+      "C": "Unidade Central de Processamento (CPU)",
+      "D": "Placa Gráfica"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual das seguintes memórias é volátil, ou seja, perde os dados temporários quando o computador é desligado?",
+    "alternativa": {
+      "A": "Memória ROM",
+      "B": "Memória RAM",
+      "C": "Disco Rígido",
+      "D": "Memória Flash (Pen Drive)"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que significa a sigla HTML no desenvolvimento web?",
+    "alternativa": {
+      "A": "HyperText Markup Language",
+      "B": "HighTech Transfer Modern Language",
+      "C": "HyperLink Texto Main Language",
+      "D": "Home Tool Management Logic"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é o principal protocolo de comunicação utilizado para navegar e carregar páginas na World Wide Web (WWW)?",
+    "alternativa": {
+      "A": "FTP",
+      "B": "SMTP",
+      "C": "HTTP",
+      "D": "SSH"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Como se chama o tipo de software malicioso projetado para infetar sistemas, encriptar arquivos e exigir um pagamento de resgate?",
+    "alternativa": {
+      "A": "Spyware",
+      "B": "Ransomware",
+      "C": "Adware",
+      "D": "Phishing"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "No sistema operativo Windows, qual é o atalho de teclado padrão utilizado para fechar a janela ou o programa que está ativo?",
+    "alternativa": {
+      "A": "Ctrl + C",
+      "B": "Ctrl + Alt + Del",
+      "C": "Alt + F4",
+      "D": "Windows + L"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual das seguintes opções representa um sistema operativo baseado em código aberto (open-source)?",
+    "alternativa": {
+      "A": "Windows 11",
+      "B": "macOS",
+      "C": "Linux",
+      "D": "iOS"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Quantos bits existem exatamente dentro de 1 Byte?",
+    "alternativa": {
+      "A": "4 bits",
+      "B": "8 bits",
+      "C": "16 bits",
+      "D": "32 bits"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual componente é utilizado para converter os sinais digitais do computador em sinais analógicos para transmissão por cabos e vice-versa?",
+    "alternativa": {
+      "A": "Roteador (Router)",
+      "B": "Modem",
+      "C": "Switch",
+      "D": "Hub"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que significa a sigla URL?",
+    "alternativa": {
+      "A": "Uniform Resource Locator",
+      "B": "Universal Recovery Link",
+      "C": "User Remote Language",
+      "D": "United Registry Log"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é a função principal de um sistema de Firewall numa rede de computadores?",
+    "alternativa": {
+      "A": "Aumentar a velocidade da ligação à Internet",
+      "B": "Filtrar e bloquear tráfego de rede não autorizado para segurança",
+      "C": "Armazenar cópias de segurança (backups)",
+      "D": "Limpar vírus do disco rígido automaticamente"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual das seguintes extensões de arquivo refere-se tipicamente a um documento de texto em formato PDF?",
+    "alternativa": {
+      "A": ".docx",
+      "B": ".xlsx",
+      "C": ".pdf",
+      "D": ".txt"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Em termos de armazenamento, qual tecnologia de armazenamento de dados é mais rápida por não possuir partes mecânicas móveis?",
+    "alternativa": {
+      "A": "HDD (Hard Disk Drive)",
+      "B": "SSD (Solid State Drive)",
+      "C": "Disquete",
+      "D": "CD-ROM"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é a função da extensão '.com' no final de um endereço eletrónico ou domínio na Internet?",
+    "alternativa": {
+      "A": "Indicar que o site é governamental",
+      "B": "Indicar que o site possui fins comerciais ou gerais",
+      "C": "Indicar que o site pertence a uma organização sem fins lucrativos",
+      "D": "Indicar que o site é exclusivo de redes militares"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que é 'Phishing' no contexto da segurança digital?",
+    "alternativa": {
+      "A": "Um antivírus avançado focado na nuvem",
+      "B": "Uma técnica de fraude para enganar utilizadores e roubar dados confidenciais",
+      "C": "Um cabo de rede de alta velocidade",
+      "D": "Um comando para reiniciar servidores remotos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual linguagem de programação é amplamente conhecida como a base para criar comportamentos interativos em páginas web do lado do cliente?",
+    "alternativa": {
+      "A": "Python",
+      "B": "C++",
+      "C": "JavaScript",
+      "D": "SQL"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é o principal objetivo da tecnologia de computação em nuvem (Cloud Computing)?",
+    "alternativa": {
+      "A": "Apenas resfriar os servidores físicos com ar condicionado",
+      "B": "Fornecer serviços de computação e armazenamento através da Internet",
+      "C": "Criar cabos de fibra ótica mais resistentes",
+      "D": "Substituir todos os monitores por telas virtuais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que faz o termo SQL (Structured Query Language) no ambiente corporativo?",
+    "alternativa": {
+      "A": "Edita imagens e vídeos em alta resolução",
+      "B": "Executa e gerencia consultas em bases de dados relacionais",
+      "C": "Compacta arquivos em formato .zip",
+      "D": "Controla a rotação das ventoinhas do computador"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual destas opções NÃO é classificada como um periférico de entrada de dados?",
+    "alternativa": {
+      "A": "Teclado",
+      "B": "Rato (Mouse)",
+      "C": "Monitor padrão (sem touch screen)",
+      "D": "Scanner"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O termo 'IP' na sigla 'Endereço IP' significa o quê?",
+    "alternativa": {
+      "A": "Internal Processor",
+      "B": "Internet Protocol",
+      "C": "Information Pathway",
+      "D": "Instant Pointer"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual destas opções representa o menor tamanho de armazenamento de dados?",
+    "alternativa": {
+      "A": "1 Megabyte (MB)",
+      "B": "1 Gigabyte (GB)",
+      "C": "1 Kilobyte (KB)",
+      "D": "1 Terabyte (TB)"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é a função básica do programa utilitário Scandisk ou Chkdsk?",
+    "alternativa": {
+      "A": "Procurar e corrigir erros lógicos e físicos no disco rígido",
+      "B": "Acelerar a digitação no processador de texto",
+      "C": "Criar slides de apresentações automáticas",
+      "D": "Configurar novas contas de correio eletrónico"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Nas redes sem fios, o que significa a sigla Wi-Fi?",
+    "alternativa": {
+      "A": "Wireless Fidelity",
+      "B": "Wide Finder",
+      "C": "Wired Filter",
+      "D": "Wave Frequency"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual dos seguintes softwares é categorizado como um navegador (Browser) de Internet?",
+    "alternativa": {
+      "A": "Microsoft Word",
+      "B": "Adobe Photoshop",
+      "C": "Google Chrome",
+      "D": "Windows Media Player"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O termo 'Hardware' refere-se a quê num ambiente computacional?",
+    "alternativa": {
+      "A": "À parte lógica e aos programas instalados",
+      "B": "Aos vírus e ameaças virtuais da rede",
+      "C": "À parte física e componentes tangíveis do sistema",
+      "D": "Aos manuais de instruções em formato digital"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é a principal função de um servidor DNS (Domain Name System) na Internet?",
+    "alternativa": {
+      "A": "Proteger redes corporativas contra ataques de vírus",
+      "B": "Traduzir nomes de domínios legíveis por humanos em endereços IP",
+      "C": "Armazenar todos os emails enviados no mundo",
+      "D": "Aumentar a velocidade física dos cabos de fibra ótica"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que significa o 'S' no final do protocolo de rede 'HTTPS'?",
+    "alternativa": {
+      "A": "Standard",
+      "B": "System",
+      "C": "Secure",
+      "D": "Server"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual das seguintes opções representa uma topologia física comum de rede local (LAN)?",
+    "alternativa": {
+      "A": "Estrela",
+      "B": "Círculo",
+      "C": "Triângulo",
+      "D": "Quadrado"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Que tipo de tecnologia de transmissão sem fios de curto alcance é utilizada para ligar ratos, teclados e fones a telemóveis e computadores?",
+    "alternativa": {
+      "A": "Infravermelho",
+      "B": "Bluetooth",
+      "C": "Satélite",
+      "D": "Fibra Ótica"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é o principal objetivo da técnica conhecida como 'Criptografia' na segurança digital?",
+    "alternativa": {
+      "A": "Apagar arquivos duplicados no disco",
+      "B": "Codificar informações para garantir a confidencialidade dos dados",
+      "C": "Aumentar a resolução das imagens de segurança",
+      "D": "Controlar a temperatura interna do processador"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que significa a sigla 'VPN' no contexto de redes e privacidade na Internet?",
+    "alternativa": {
+      "A": "Virtual Private Network",
+      "B": "Verified Path Node",
+      "C": "Variable Process Number",
+      "D": "Visual Protocol Navigator"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "No Microsoft Excel ou Google Sheets, qual símbolo deve ser digitado obrigatoriamente no início de qualquer célula para indicar que se trata de uma fórmula?",
+    "alternativa": {
+      "A": "#",
+      "B": "@",
+      "C": "=",
+      "D": "+"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é o termo técnico utilizado para descrever a pequena quantidade de memória ultrarrápida integrada diretamente na CPU para acelerar o acesso a dados frequentes?",
+    "alternativa": {
+      "A": "Memória Virtual",
+      "B": "Memória Cache",
+      "C": "Memória Flash",
+      "D": "Memória ROM"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que caracteriza uma ameaça virtual conhecida como 'Trojan' (Cavalo de Troia)?",
+    "alternativa": {
+      "A": "Um antivírus camuflado que limpa a memória",
+      "B": "Um malware disfarçado de programa legítimo para enganar o utilizador",
+      "C": "Um dispositivo de hardware que queima a placa-mãe",
+      "D": "Um protocolo de rede usado para transferir arquivos grandes"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual destas opções é uma porta ou interface de conexão amplamente usada para transferir dados e alimentar energia em dispositivos modernos?",
+    "alternativa": {
+      "A": "VGA",
+      "B": "USB-C",
+      "C": "SATA",
+      "D": "IDE"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "No modelo de referência OSI para redes de computadores, quantas camadas existem no total?",
+    "alternativa": {
+      "A": "4 camadas",
+      "B": "5 camadas",
+      "C": "7 camadas",
+      "D": "9 camadas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é a função do componente de firmware conhecido como BIOS (Basic Input/Output System) num computador?",
+    "alternativa": {
+      "A": "Criar gráficos de alta definição para jogos",
+      "B": "Inicializar o hardware e carregar o sistema operativo durante o arranque",
+      "C": "Gerir as contas de email dos utilizadores",
+      "D": "Compactar arquivos pesados automaticamente"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual das seguintes opções é considerada um serviço de armazenamento de arquivos em nuvem?",
+    "alternativa": {
+      "A": "Microsoft Word",
+      "B": "Google Drive",
+      "C": "Adobe Illustrator",
+      "D": "WinRAR"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que significa a sigla 'IoT' no cenário tecnológico atual?",
+    "alternativa": {
+      "A": "Internet of Things (Internet das Coisas)",
+      "B": "Input Output Technology",
+      "C": "Integrated Operational Tools",
+      "D": "Internal Online Transfer"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é o principal conector ou cabo físico utilizado para ligar computadores a redes cabeadas locais (Ethernet)?",
+    "alternativa": {
+      "A": "Cabo HDMI",
+      "B": "Cabo RJ-45",
+      "C": "Cabo USB",
+      "D": "Cabo Coaxial"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Em relação aos conceitos de segurança da informação, o que garante o princípio da 'Integridade'?",
+    "alternativa": {
+      "A": "Que a informação só fique disponível para pessoas autorizadas",
+      "B": "Que a informação não seja modificada ou destruída de forma não autorizada",
+      "C": "Que o sistema esteja sempre acessível quando necessário",
+      "D": "Que os computadores nunca fiquem lentos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é o termo dado ao processo de criar uma cópia de segurança dos dados de um sistema para prevenir perdas?",
+    "alternativa": {
+      "A": "Format",
+      "B": "Backup",
+      "C": "Reboot",
+      "D": "Download"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Que nome se dá à rede global de computadores interligados que utiliza o conjunto de protocolos TCP/IP?",
+    "alternativa": {
+      "A": "Intranet",
+      "B": "Internet",
+      "C": "Ethernet",
+      "D": "Extranet"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual componente da placa-mãe é responsável por manter as configurações da BIOS salvas e o relógio do sistema atualizado mesmo com o PC desligado?",
+    "alternativa": {
+      "A": "O cooler",
+      "B": "A bateria do CMOS",
+      "C": "O slot PCI",
+      "D": "A entrada USB"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que faz o atalho de teclado 'Ctrl + Z' na maioria dos programas do Windows?",
+    "alternativa": {
+      "A": "Recorta o texto selecionado",
+      "B": "Desfaz a última ação realizada",
+      "C": "Salva o arquivo atual",
+      "D": "Fecha o programa ativo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual é a unidade de medida padrão usada atualmente para indicar a velocidade de processamento de uma CPU moderna?",
+    "alternativa": {
+      "A": "Gigabytes (GB)",
+      "B": "Gigahertz (GHz)",
+      "C": "Megabits por segundo (Mbps)",
+      "D": "Pixels"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Que tipo de programa é responsável por fazer a ponte de comunicação entre o sistema operativo e um hardware específico instalado (como uma impressora)?",
+    "alternativa": {
+      "A": "Firmware",
+      "B": "Driver",
+      "C": "Antivírus",
+      "D": "Compilador"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "Qual das seguintes opções representa uma prática segura para a criação de senhas de acesso?",
+    "alternativa": {
+      "A": "Usar a data de nascimento ou o próprio nome",
+      "B": "Misturar letras maiúsculas, minúsculas, números e caracteres especiais",
+      "C": "Utilizar a mesma senha para todas as contas e e-mails",
+      "D": "Escrever a senha num bilhete colado no monitor"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O que faz um software classificado como 'Adware'?",
+    "alternativa": {
+      "A": "Bloqueia o computador cobrando um valor em dinheiro",
+      "B": "Exibe anúncios publicitários indesejados de forma automática no sistema",
+      "C": "Monitoriza as teclas digitadas para roubar senhas bancárias",
+      "D": "Aumenta a velocidade de download do navegador"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Informática",
+    "pergunta": "O termo 'Software' engloba qual das seguintes alternativas?",
+    "alternativa": {
+      "A": "Os chips de memória e cabos internos",
+      "B": "Os programas, aplicativos e sistemas operativos",
+      "C": "A estrutura de plástico e metal do computador",
+      "D": "Os periféricos externos como impressoras e ratos"
+    },
+    "resposta_correta": "B"
+  }
+]

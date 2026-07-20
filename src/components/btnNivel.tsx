@@ -6,36 +6,15 @@ import React from 'react';
 //import FontAwesome from '@expo/vector-icons/FontAwesome';
 import { StyleSheet, Text, View, TouchableOpacity} from 'react-native';
 
-function handleIniciarPress(route:any) {
-  route.push('/login');
-}
 
-function handleCriarContaPress(route:any) {
-  route.push('/sigin');
-}
-export default function App() {
-const router = useRouter();
+export default function BtnNivel() {
 
   return (
-    <View style={styles.container}>
-      <View>
-      </View>
-      <View style={styles.containerText}>
-        <Text style={styles.title}>Aprovado</Text>
-        <Text style={styles.subtitle}>Prepara-se para o concurso publico divertindo-se</Text>
-      </View>
-      
-
-    <View style={styles.containerBtn}>
-      <TouchableOpacity style={[styles.BtnOne, styles.Btn]} onPress={() => handleIniciarPress(router)}>
-                <Text style={[styles.BtnText,styles.BtnOneText]}>Iniciar</Text>
+    <>
+      <TouchableOpacity style={[styles.BtnOne, styles.Btn]} onPress={() => {}}>
+        <Text style={[styles.BtnText,styles.BtnOneText]}>Iniciar</Text>
       </TouchableOpacity>
-      <TouchableOpacity style={[styles.BtnTwe, styles.Btn]} onPress={() => handleCriarContaPress(router)}>
-                <Text style={[styles.BtnText,styles.BtnTweText]}>Criar uma conta</Text>
-      </TouchableOpacity>
-    </View>
-      
-    </View>
+    </>
   );
   
 }

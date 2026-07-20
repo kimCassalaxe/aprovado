@@ -1,0 +1,552 @@
+[
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "alternativa": {
+      "A": "Terra",
+      "B": "Marte",
+      "C": "Júpiter",
+      "D": "Saturno"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem pintou o famoso quadro 'Mona Lisa'?",
+    "alternativa": {
+      "A": "Vincent van Gogh",
+      "B": "Leonardo da Vinci",
+      "C": "Michelangelo",
+      "D": "Pablo Picasso"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Em qual continente se localiza o Deserto do Saara?",
+    "alternativa": {
+      "A": "Ásia",
+      "B": "África",
+      "C": "América do Sul",
+      "D": "Oceânia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é a fórmula química da água?",
+    "alternativa": {
+      "A": "CO2",
+      "B": "H2O",
+      "C": "NaCl",
+      "D": "O2"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual país sediou os Jogos Olímpicos de 2016?",
+    "alternativa": {
+      "A": "Reino Unido",
+      "B": "Japão",
+      "C": "Brasil",
+      "D": "China"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem escreveu a peça 'Romeu e Julieta'?",
+    "alternativa": {
+      "A": "Machado de Assis",
+      "B": "William Shakespeare",
+      "C": "Miguel de Cervantes",
+      "D": "Fernando Pessoa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o rio mais longo do mundo?",
+    "alternativa": {
+      "A": "Rio Nilo",
+      "B": "Rio Amazonas",
+      "C": "Rio Mississípi",
+      "D": "Rio Yangtzé"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Que país inventou o papel?",
+    "alternativa": {
+      "A": "Egito",
+      "B": "China",
+      "C": "Grécia",
+      "D": "Itália"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o metal cujo símbolo químico é 'Au'?",
+    "alternativa": {
+      "A": "Prata",
+      "B": "Cobre",
+      "C": "Ouro",
+      "D": "Alumínio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+    "alternativa": {
+      "A": "1918",
+      "B": "1939",
+      "C": "1945",
+      "D": "1961"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é a capital da Austrália?",
+    "alternativa": {
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Camberra",
+      "D": "Brisbane"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o órgão mais pesado do corpo humano?",
+    "alternativa": {
+      "A": "Cérebro",
+      "B": "Fígado",
+      "C": "Coração",
+      "D": "Pele"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual cientista formulou a Teoria da Relatividade Geral?",
+    "alternativa": {
+      "A": "Isaac Newton",
+      "B": "Albert Einstein",
+      "C": "Galileo Galilei",
+      "D": "Nikola Tesla"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o país com a maior população do mundo?",
+    "alternativa": {
+      "A": "Índia",
+      "B": "China",
+      "C": "Estados Unidos",
+      "D": "Indonésia"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem foi o primeiro presidente de Angola após a independência?",
+    "alternativa": {
+      "A": "Agostinho Neto",
+      "B": "José Eduardo dos Santos",
+      "C": "Jonas Savimbi",
+      "D": "Holden Roberto"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é a moeda oficial do Japão?",
+    "alternativa": {
+      "A": "Yuan",
+      "B": "Iene",
+      "C": "Won",
+      "D": "Dólar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quantos ossos tem o corpo humano de um adulto, em média?",
+    "alternativa": {
+      "A": "150",
+      "B": "206",
+      "C": "300",
+      "D": "412"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual oceano banha a costa oeste de África?",
+    "alternativa": {
+      "A": "Oceano Índico",
+      "B": "Oceano Pacífico",
+      "C": "Oceano Atlântico",
+      "D": "Oceano Glacial Ártico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem descobriu a penicilina?",
+    "alternativa": {
+      "A": "Louis Pasteur",
+      "B": "Alexander Fleming",
+      "C": "Marie Curie",
+      "D": "Edward Jenner"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o monumento mais famoso de Paris?",
+    "alternativa": {
+      "A": "Estátua da Liberdade",
+      "B": "Torre Eiffel",
+      "C": "Coliseu",
+      "D": "Big Ben"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Que país africano é conhecido como a 'Terra das Mil Colinas'?",
+    "alternativa": {
+      "A": "Quénia",
+      "B": "Ruanda",
+      "C": "Etiópia",
+      "D": "África do Sul"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o maior animal vivo na Terra?",
+    "alternativa": {
+      "A": "Elefante africano",
+      "B": "Baleia-azul",
+      "C": "Tubarão-baleia",
+      "D": "Girafa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual cordilheira abriga a montanha mais alta do mundo, o Monte Everest?",
+    "alternativa": {
+      "A": "Andes",
+      "B": "Alpes",
+      "C": "Himalaia",
+      "D": "Montanhas Rochosas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quantos dentes tem um ser humano adulto saudável (incluindo os dentes do siso)?",
+    "alternativa": {
+      "A": "28",
+      "B": "30",
+      "C": "32",
+      "D": "36"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual filósofo grego foi o mestre de Alexandre, o Grande?",
+    "alternativa": {
+      "A": "Sócrates",
+      "B": "Platão",
+      "C": "Aristóteles",
+      "D": "Pitágoras"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o deserto mais seco do mundo?",
+    "alternativa": {
+      "A": "Deserto de Gobi",
+      "B": "Deserto do Atacama",
+      "C": "Deserto do Saara",
+      "D": "Deserto da Namíbia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem foi o inventor do telefone?",
+    "alternativa": {
+      "A": "Thomas Edison",
+      "B": "Alexander Graham Bell",
+      "C": "Guglielmo Marconi",
+      "D": "Benjamin Franklin"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Em que país surgiu o estilo musical 'Reggae'?",
+    "alternativa": {
+      "A": "Cuba",
+      "B": "Jamaica",
+      "C": "Brasil",
+      "D": "Nigéria"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual a maior ilha do mundo?",
+    "alternativa": {
+      "A": "Madagáscar",
+      "B": "Gronelândia",
+      "C": "Austrália",
+      "D": "Islândia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "O que significa a sigla ONU?",
+    "alternativa": {
+      "A": "Organização das Nações Unidas",
+      "B": "Ordem Nacional de Unificação",
+      "C": "Organização Não Governamental Única",
+      "D": "Operação de Nações Unidas"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é a velocidade aproximada da luz?",
+    "alternativa": {
+      "A": "300.000 km/s",
+      "B": "150.000 km/s",
+      "C": "1.000.000 km/s",
+      "D": "30.000 km/s"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Que país colonizou Angola?",
+    "alternativa": {
+      "A": "França",
+      "B": "Inglaterra",
+      "C": "Portugal",
+      "D": "Espanha"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem escreveu o livro de poemas 'Sagrada Esperança'?",
+    "alternativa": {
+      "A": "Pepetela",
+      "B": "Agostinho Neto",
+      "C": "Luandino Vieira",
+      "D": "Viriato da Cruz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o gás essencial para a nossa respiração?",
+    "alternativa": {
+      "A": "Nitrogénio",
+      "B": "Oxigénio",
+      "C": "Hidrogénio",
+      "D": "Dióxido de Carbono"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual destas redes sociais foi lançada primeiro no mercado?",
+    "alternativa": {
+      "A": "Instagram",
+      "B": "TikTok",
+      "C": "Facebook",
+      "D": "Twitter (X)"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Que desporto consagrou o atleta Usain Bolt?",
+    "alternativa": {
+      "A": "Natação",
+      "B": "Atletismo",
+      "C": "Ginástica artística",
+      "D": "Ciclismo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é a capital da província da Huíla em Angola?",
+    "alternativa": {
+      "A": "Benguela",
+      "B": "Lubango",
+      "C": "Namibe",
+      "D": "Huambo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quantos anos durou a Guerra dos Cem Anos?",
+    "alternativa": {
+      "A": "100 anos",
+      "B": "99 anos",
+      "C": "116 anos",
+      "D": "150 anos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é a maior floresta tropical do mundo?",
+    "alternativa": {
+      "A": "Floresta do Congo",
+      "B": "Floresta Amazónica",
+      "C": "Floresta de Taiga",
+      "D": "Floresta de Bornéu"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem é considerado o 'Pai da Computação'?",
+    "alternativa": {
+      "A": "Bill Gates",
+      "B": "Steve Jobs",
+      "C": "Alan Turing",
+      "D": "Charles Babbage"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
+    "alternativa": {
+      "A": "1985",
+      "B": "1989",
+      "C": "1991",
+      "D": "1995"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual elemento da tabela periódica tem o símbolo 'Fe'?",
+    "alternativa": {
+      "A": "Flúor",
+      "B": "Fósforo",
+      "C": "Ferro",
+      "D": "Chumbo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem escreveu 'Os Lusíadas'?",
+    "alternativa": {
+      "A": "Luís de Camões",
+      "B": "Fernando Pessoa",
+      "C": "Eça de Queirós",
+      "D": "José Saramago"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é o maior oceano do mundo em área de superfície?",
+    "alternativa": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Índico",
+      "C": "Oceano Pacífico",
+      "D": "Oceano Ártico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "De que planta é extraída a matéria-prima para fazer o chocolate?",
+    "alternativa": {
+      "A": "Café",
+      "B": "Cacau",
+      "C": "Trigo",
+      "D": "Cevada"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Que país africano conquistou o Campeonato Africano das Nações (CAN) de futebol em 2024?",
+    "alternativa": {
+      "A": "Nigéria",
+      "B": "Costa do Marfim",
+      "C": "Senegal",
+      "D": "Egito"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Quem pintou o teto da Capela Sistina?",
+    "alternativa": {
+      "A": "Leonardo da Vinci",
+      "B": "Michelangelo",
+      "C": "Rafael Sanzio",
+      "D": "Donatello"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual país é o maior produtor de café do mundo?",
+    "alternativa": {
+      "A": "Colômbia",
+      "B": "Vietname",
+      "C": "Brasil",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Qual é a estrela mais próxima do planeta Terra?",
+    "alternativa": {
+      "A": "Alfa Centauri",
+      "B": "Sírius",
+      "C": "O Sol",
+      "D": "Polar"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura Geral",
+    "pergunta": "Em que dia se celebra o Dia da Independência Nacional em Angola?",
+    "alternativa": {
+      "A": "4 de Fevereiro",
+      "B": "17 de Setembro",
+      "C": "11 de Novembro",
+      "D": "4 de Abril"
+    },
+    "resposta_correta": "C"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o maior oceano do planeta Terra em extensão territorial e profundidade?",
+    "alternativa": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Índico",
+      "C": "Oceano Pacífico",
+      "D": "Oceano Glacial Ártico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a montanha mais alta do continente africano, localizada na Tanzânia?",
+    "alternativa": {
+      "A": "Monte Quénia",
+      "B": "Monte Kilimanjaro",
+      "C": "Monte Ruwenzori",
+      "D": "Monte Camarões"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Com qual das seguintes províncias angolanas a província de Luanda faz fronteira direta?",
+    "alternativa": {
+      "A": "Cuanza Sul",
+      "B": "Bengo",
+      "C": "Uíge",
+      "D": "Zaire"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a linha imaginária que divide o planeta Terra nos hemisférios Norte e Sul?",
+    "alternativa": {
+      "A": "Meridiano de Greenwich",
+      "B": "Trópico de Câncer",
+      "C": "Trópico de Capricórnio",
+      "D": "Linha do Equador"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Que país africano possui o maior número de habitantes (maior população) do continente?",
+    "alternativa": {
+      "A": "Egito",
+      "B": "África do Sul",
+      "C": "Nigéria",
+      "D": "Etiópia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o principal rio que atravessa o Egito e desagua no Mar Mediterrâneo?",
+    "alternativa": {
+      "A": "Rio Congo",
+      "B": "Rio Nilo",
+      "C": "Rio Níger",
+      "D": "Rio Zambeze"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Como se chama o ponto mais alto do território de Angola, localizado na província do Huambo?",
+    "alternativa": {
+      "A": "Monte Moco",
+      "B": "Serra da Leba",
+      "C": "Monte Lupupa",
+      "D": "Pedras Negras de Pungo Andongo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual destas capitais europeias é conhecida como a 'Cidade Luz'?",
+    "alternativa": {
+      "A": "Londres",
+      "B": "Madrid",
+      "C": "Paris",
+      "D": "Roma"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Em qual das seguintes províncias angolanas localizam-se as famosas Quedas de Kalandula?",
+    "alternativa": {
+      "A": "Cuanza Norte",
+      "B": "Malanje",
+      "C": "Lunda Sul",
+      "D": "Uíge"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o menor país do mundo em extensão territorial e população, situado dentro de Roma?",
+    "alternativa": {
+      "A": "Mónaco",
+      "B": "San Marino",
+      "C": "Vaticano",
+      "D": "Liechtenstein"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Com qual destes países Angola NÃO partilha uma fronteira terrestre?",
+    "alternativa": {
+      "A": "República Democrática do Congo",
+      "B": "Zâmbia",
+      "C": "Namíbia",
+      "D": "Zimbabué"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província do Cuanza Sul em Angola?",
+    "alternativa": {
+      "A": "Ndalatando",
+      "B": "Sumbe",
+      "C": "Caxito",
+      "D": "Uíge"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Que grande deserto localiza-se na porção sudoeste do continente africano, abrangendo partes da Namíbia e do sul de Angola?",
+    "alternativa": {
+      "A": "Deserto do Saara",
+      "B": "Deserto do Calaari",
+      "C": "Deserto do Namibe",
+      "D": "Deserto de Gobi"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o maior lago de água doce do continente africano por área de superfície?",
+    "alternativa": {
+      "A": "Lago Tanganica",
+      "B": "Lago Vitória",
+      "C": "Lago Malawi",
+      "D": "Lago Chade"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual destas províncias angolanas é a maior em termos de extensão territorial?",
+    "alternativa": {
+      "A": "Moxico",
+      "B": "Cuando Cubango",
+      "C": "Huíla",
+      "D": "Lunda Norte"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o nome do canal artificial que liga o Mar Mediterrâneo ao Mar Vermelho, facilitando o comércio marítimo?",
+    "alternativa": {
+      "A": "Canal do Panamá",
+      "B": "Canal de Suez",
+      "C": "Canal da Mancha",
+      "D": "Estreito de Gibraltar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "O arquipélago das ilhas Seychelles localiza-se em qual oceano?",
+    "alternativa": {
+      "A": "Oceano Atlântico",
+      "B": "Oceano Pacífico",
+      "C": "Oceano Índico",
+      "D": "Oceano Glacial Antártico"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o rio angolano de grande importância geopolítica que desagua nas famosas Cataratas de Vitória (Victoria Falls) localizadas entre a Zâmbia e o Zimbabué?",
+    "alternativa": {
+      "A": "Rio Cuanza",
+      "B": "Rio Cunene",
+      "C": "Rio Zambeze",
+      "D": "Rio Cubango"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Como é chamada a ciência ou arte técnica que se encarrega de conceber, desenhar e produzir mapas geográficos?",
+    "alternativa": {
+      "A": "Geologia",
+      "B": "Topografia",
+      "C": "Demografia",
+      "D": "Cartografia"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o país da América do Sul que possui a maior extensão territorial e a maior floresta tropical do mundo?",
+    "alternativa": {
+      "A": "Argentina",
+      "B": "Colômbia",
+      "C": "Brasil",
+      "D": "Peru"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província do Zaire, localizada no norte de Angola?",
+    "alternativa": {
+      "A": "Mbanza Congo",
+      "B": "Soyo",
+      "C": "Cabinda",
+      "D": "Uíge"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "O fenómeno climático caracterizado pelo aquecimento anormal das águas superficiais do Oceano Pacífico Equatorial é conhecido como:",
+    "alternativa": {
+      "A": "La Niña",
+      "B": "Monção",
+      "C": "El Niño",
+      "D": "Tsunami"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual destas províncias angolanas NÃO possui saída ou costa para o Oceano Atlântico?",
+    "alternativa": {
+      "A": "Benguela",
+      "B": "Namibe",
+      "C": "Uíge",
+      "D": "Cabinda"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o continente mais frio, seco e ventoso da Terra, coberto quase totalmente por gelo?",
+    "alternativa": {
+      "A": "Europa",
+      "B": "Antártida",
+      "C": "América do Norte",
+      "D": "Ásia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Como se chama o principal e maior rio totalmente angolano, cuja bacia hidrográfica é fundamental para a produção de energia e agricultura do país?",
+    "alternativa": {
+      "A": "Rio Cunene",
+      "B": "Rio Zaire",
+      "C": "Rio Cuanza",
+      "D": "Rio Cubango"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província do Bié, localizada na região centro de Angola?",
+    "alternativa": {
+      "A": "Huambo",
+      "B": "Cuito",
+      "C": "Menongue",
+      "D": "Luena"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital oficial da República da África do Sul onde se localiza a sede do poder executivo (governo)?",
+    "alternativa": {
+      "A": "Joanesburgo",
+      "B": "Cidade do Cabo",
+      "C": "Pretória",
+      "D": "Durban"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Em qual província angolana se localiza a conhecida fenda geológica da Tundavala?",
+    "alternativa": {
+      "A": "Namibe",
+      "B": "Huíla",
+      "C": "Benguela",
+      "D": "Cunene"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o maior país do continente africano em termos de área territorial total?",
+    "alternativa": {
+      "A": "Argélia",
+      "B": "República Democrática do Congo",
+      "C": "Sudão",
+      "D": "Líbia"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Como se chama o estreito braço de água que separa o continente europeu do continente africano?",
+    "alternativa": {
+      "A": "Estreito de Bósforo",
+      "B": "Estreito de Bering",
+      "C": "Estreito de Magalhães",
+      "D": "Estreito de Gibraltar"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província do Cuanza Norte em Angola?",
+    "alternativa": {
+      "A": "Malanje",
+      "B": "Ndalatando",
+      "C": "Uíge",
+      "D": "Caxito"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual destas províncias angolanas destaca-se historicamente como a principal produtora de diamantes no país?",
+    "alternativa": {
+      "A": "Lunda Norte",
+      "B": "Cabinda",
+      "C": "Namibe",
+      "D": "Cuanza Sul"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da Namíbia, país que faz fronteira com o sul de Angola?",
+    "alternativa": {
+      "A": "Gaborone",
+      "B": "Windhoek",
+      "C": "Lusaka",
+      "D": "Harare"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Que grande cordilheira de montanhas localiza-se na porção ocidental da América do Sul?",
+    "alternativa": {
+      "A": "Alpes",
+      "B": "Himalaia",
+      "C": "Andes",
+      "D": "Montanhas Rochosas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Em qual província angolana desagua o Rio Cunene, servindo também como fronteira natural?",
+    "alternativa": {
+      "A": "Cunene",
+      "B": "Namibe",
+      "C": "Cuando Cubango",
+      "D": "Huíla"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital do Quénia, país da África Oriental conhecido pelas suas reservas de vida selvagem?",
+    "alternativa": {
+      "A": "Nairobi",
+      "B": "Mombaça",
+      "C": "Addis Abeba",
+      "D": "Dar es Salaam"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província do Cuando Cubango, situada no extremo sudeste de Angola?",
+    "alternativa": {
+      "A": "Menongue",
+      "B": "Cuito Cuanavale",
+      "C": "Mavinga",
+      "D": "Ondjiva"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é o maior mar interior (semi-fechado) do mundo, localizado entre a Europa, a África e a Ásia?",
+    "alternativa": {
+      "A": "Mar Vermelho",
+      "B": "Mar Morto",
+      "C": "Mar Mediterrâneo",
+      "D": "Mar Negro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Como se chama o deserto de terra e pedras localizado no leste da Ásia, abrangendo a China e a Mongólia?",
+    "alternativa": {
+      "A": "Deserto de Gobi",
+      "B": "Deserto do Saara",
+      "C": "Deserto de Atacama",
+      "D": "Deserto de Mojave"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província de Benguela em Angola?",
+    "alternativa": {
+      "A": "Lobito",
+      "B": "Benguela",
+      "C": "Catumbela",
+      "D": "Baía Farta"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da República de Moçambique, país africano banhado pelo Oceano Índico?",
+    "alternativa": {
+      "A": "Beira",
+      "B": "Nampula",
+      "C": "Maputo",
+      "D": "Pemba"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Como se chama o tipo de vegetação predominante em grande parte do território angolano, caracterizado por árvores dispersas e capim alto?",
+    "alternativa": {
+      "A": "Savana (ou Miombo)",
+      "B": "Floresta É equatorial",
+      "C": "Estepe",
+      "D": "Tundra"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual país europeu possui o formato geográfico que se assemelha a uma bota?",
+    "alternativa": {
+      "A": "Espanha",
+      "B": "Grécia",
+      "C": "França",
+      "D": "Itália"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província da Lunda Sul em Angola?",
+    "alternativa": {
+      "A": "Saurimo",
+      "B": "Dundo",
+      "C": "Luena",
+      "D": "Malange"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual destas ilhas africanas é um Estado soberano e localiza-se no Oceano Índico, sendo a maior ilha do continente?",
+    "alternativa": {
+      "A": "Zanzibar",
+      "B": "Madagáscar",
+      "C": "Maurícia",
+      "D": "Reunião"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Como se chama o rio que serve de fronteira natural no extremo norte de Angola, separando o país da RDC?",
+    "alternativa": {
+      "A": "Rio Zaire (Congo)",
+      "B": "Rio Zambeze",
+      "C": "Rio Cuango",
+      "D": "Rio Mbridge"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província do Cunene, localizada no sul de Angola?",
+    "alternativa": {
+      "A": "Ondjiva",
+      "B": "Menongue",
+      "C": "Lubango",
+      "D": "Cahama"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual país asiático é composto por um arquipélago de mais de 6.000 ilhas e é conhecido como a 'Terra do Sol Nascente'?",
+    "alternativa": {
+      "A": "China",
+      "B": "Coreia do Sul",
+      "C": "Japão",
+      "D": "Filipinas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "A bacia hidrográfica de qual rio internacional africano é a segunda maior do mundo em volume de água, atrás apenas do rio Amazonas?",
+    "alternativa": {
+      "A": "Rio Nilo",
+      "B": "Rio Níger",
+      "C": "Rio Zaire (Congo)",
+      "D": "Rio Zambeze"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Geografia",
+    "pergunta": "Qual é a capital da província do Moxico, a maior província em extensão territorial de Angola?",
+    "alternativa": {
+      "A": "Luena",
+      "B": "Cazombo",
+      "C": "Saurimo",
+      "D": "Menongue"
+    },
+    "resposta_correta": "A"
+  }
+]

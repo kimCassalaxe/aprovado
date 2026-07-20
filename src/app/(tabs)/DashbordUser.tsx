@@ -13,7 +13,7 @@ function handleIniciarPress(route:any) {
 function handleCriarContaPress(route:any) {
   route.push('/sigin');
 }
-export default function App() {
+export default function DashbordUser() {
 const router = useRouter();
 
   return (

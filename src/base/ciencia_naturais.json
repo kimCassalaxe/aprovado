@@ -1,0 +1,553 @@
+[
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a unidade estrutural e funcional básica de todos os organismos vivos?",
+    "alternativa": {
+      "A": "O átomo",
+      "B": "A molécula",
+      "C": "A célula",
+      "D": "O tecido"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Como se chama o processo pelo qual as plantas verdes utilizam a luz solar para produzir o seu próprio alimento?",
+    "alternativa": {
+      "A": "Respiração celular",
+      "B": "Fotossíntese",
+      "C": "Fermentação",
+      "D": "Transpiração"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o principal gás responsável pelo efeito de estufa na atmosfera terrestre produzido pela queima de combustíveis fósseis?",
+    "alternativa": {
+      "A": "Oxigénio",
+      "B": "Dióxido de carbono (CO2)",
+      "C": "Azoto",
+      "D": "Hélio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o nome do pigmento verde presente nas plantas que absorve a luz solar para a fotossíntese?",
+    "alternativa": {
+      "A": "Hemoglobina",
+      "B": "Clorofila",
+      "C": "Melanina",
+      "D": "Caroteno"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Em física, qual é a unidade padrão de medida da força no Sistema Internacional de Unidades (SI)?",
+    "alternativa": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Pascal"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o estado físico da água quando ela se encontra a uma temperatura de zero graus Celsius (0 ºC) sob pressão normal?",
+    "alternativa": {
+      "A": "Líquido",
+      "B": "Gasoso",
+      "C": "Sólido",
+      "D": "Plasma"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Que nome se dá aos animais que se alimentam exclusivamente de tecidos vegetais?",
+    "alternativa": {
+      "A": "Carnívoros",
+      "B": "Herbívoros",
+      "C": "Omnívoros",
+      "D": "Detritívoros"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual destas glândulas do corpo humano é responsável pela produção de insulina para controlar os níveis de açúcar no sangue?",
+    "alternativa": {
+      "A": "Fígado",
+      "B": "Pâncreas",
+      "C": "Tiroide",
+      "D": "Hipófise"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a macromolécula que carrega as instruções genéticas usadas no desenvolvimento e funcionamento de todos os seres vivos?",
+    "alternativa": {
+      "A": "Proteína",
+      "B": "Lípido",
+      "C": "ADN (Ácido Desoxirribonucleico)",
+      "D": "Glicose"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Como se chama a mudança do estado gasoso para o estado líquido que ocorre, por exemplo, na formação das nuvens?",
+    "alternativa": {
+      "A": "Evaporação",
+      "B": "Condensação (ou Sublimação)",
+      "C": "Solidificação",
+      "D": "Fusão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a velocidade aproximada do som no ar ao nível do mar e a uma temperatura de 20 ºC?",
+    "alternativa": {
+      "A": "343 metros por segundo",
+      "B": "1.200 metros por segundo",
+      "C": "300.000 metros por segundo",
+      "D": "50 metros por segundo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o principal órgão do sistema circulatório humano, responsável por bombear o sangue por todo o corpo?",
+    "alternativa": {
+      "A": "Pulmão",
+      "B": "Rim",
+      "C": "Coração",
+      "D": "Cérebro"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o elemento químico mais abundante na atmosfera do planeta Terra (cerca de 78% do volume de ar seco)?",
+    "alternativa": {
+      "A": "Oxigénio",
+      "B": "Azoto (Nitrogénio)",
+      "C": "Árgon",
+      "D": "Hidrogénio"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Que nome se dá à relação ecológica na qual ambos os indivíduos se beneficiam mutuamente da associação entre eles?",
+    "alternativa": {
+      "A": "Parasitismo",
+      "B": "Mutualismo",
+      "C": "Predatismo",
+      "D": "Competição"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual destas vitaminas é produzida pelo corpo humano através da exposição da pele à luz solar?",
+    "alternativa": {
+      "A": "Vitamina A",
+      "B": "Vitamina C",
+      "C": "Vitamina D",
+      "D": "Vitamina K"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "O que estuda a ciência da Paleontologia?",
+    "alternativa": {
+      "A": "O comportamento das plantas modernas",
+      "B": "Os fósseis e a vida pré-histórica do planeta",
+      "C": "As propriedades químicas das rochas lunares",
+      "D": "Os oceanos e correntes marítimas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o planeta do Sistema Solar conhecido pelas suas cores avermelhadas devido à presença de óxido de ferro na sua superfície?",
+    "alternativa": {
+      "A": "Vénus",
+      "B": "Marte",
+      "C": "Mercúrio",
+      "D": "Neptuno"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Que sistema do corpo humano é constituído pelo conjunto de ossos e cartilagens que dão suporte e proteção estrutural?",
+    "alternativa": {
+      "A": "Sistema Nervoso",
+      "B": "Sistema Esquelético",
+      "C": "Sistema Muscular",
+      "D": "Sistema Endócrino"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a principal função dos glóbulos vermelhos (hemácias) no sangue humano?",
+    "alternativa": {
+      "A": "Combater infecções e vírus",
+      "B": "Transportar oxigénio para os tecidos do corpo",
+      "C": "Promover a coagulação sanguínea em ferimentos",
+      "D": "Produzir anticorpos de defesa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Quem propôs a teoria da evolução das espécies por meio da seleção natural no século XIX?",
+    "alternativa": {
+      "A": "Gregor Mendel",
+      "B": "Charles Darwin",
+      "C": "Louis Pasteur",
+      "D": "Jean-Baptiste Lamarck"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual instrumento de laboratório é especificamente utilizado para observar microrganismos e estruturas celulares invisíveis a olho nu?",
+    "alternativa": {
+      "A": "Telescópio",
+      "B": "Microscópio",
+      "C": "Barómetro",
+      "D": "Termómetro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a substância líquida considerada o solvente universal na natureza?",
+    "alternativa": {
+      "A": "Álcool",
+      "B": "Água",
+      "C": "Óleo",
+      "D": "Ácido clorídrico"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Como se chama a camada superior e externa do planeta Terra, onde se desenvolve a vida e as atividades humanas?",
+    "alternativa": {
+      "A": "Manto",
+      "B": "Núcleo Externo",
+      "C": "Crosta Terrestre (ou Litosfera)",
+      "D": "Núcleo Interno"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual destas opções descreve um animal vertebrado anfíbio?",
+    "alternativa": {
+      "A": "O jacaré",
+      "B": "A rã",
+      "C": "O tubarão",
+      "D": "A águia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "O que avalia a escala de pH no estudo da química?",
+    "alternativa": {
+      "A": "A pressão de gases fechados",
+      "B": "O grau de acidez ou alcalinidade de uma solução",
+      "C": "A velocidade de reações atómicas",
+      "D": "O peso molecular de polímeros"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a força invisível que atrai todos os objetos em direção ao centro da Terra?",
+    "alternativa": {
+      "A": "Força Magnética",
+      "B": "Força de Atrito",
+      "C": "Força Gravítica (Gravidade)",
+      "D": "Força Centrífuga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Como se chama o ecossistema global que engloba todas as regiões da Terra onde existe vida?",
+    "alternativa": {
+      "A": "Atmosfera",
+      "B": "Litosfera",
+      "C": "Biosfera",
+      "D": "Hidrosfera"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual destas partes do olho humano é responsável por focar a luz e projetar a imagem na retina?",
+    "alternativa": {
+      "A": "Pupila",
+      "B": "Cristalino (ou Lente)",
+      "C": "Íris",
+      "D": "Nervo ótico"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a estrela central em torno da qual orbitam todos os planetas do nosso Sistema Solar?",
+    "alternativa": {
+      "A": "A Lua",
+      "B": "O Sol",
+      "C": "Alfa Centauri",
+      "D": "Estrela Polar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Que cientista britânico descobriu as leis fundamentais da hereditariedade através do estudo de ervilhas no século XIX?",
+    "alternativa": {
+      "A": "Gregor Mendel",
+      "B": "Louis Pasteur",
+      "C": "Robert Hooke",
+      "D": "James Watson"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o nome da camada de gás que protege a Terra dos raios ultravioleta nocivos emitidos pelo Sol?",
+    "alternativa": {
+      "A": "Camada de Oxigénio",
+      "B": "Camada de Ozono",
+      "C": "Camada de Hidrogénio",
+      "D": "Camada de Metano"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Que tipo de animais são os golfinhos e as baleias, apesar de viverem permanentemente na água?",
+    "alternativa": {
+      "A": "Peixes",
+      "B": "Anfíbios",
+      "C": "Mamíferos",
+      "D": "Répteis"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o principal órgão responsável pela filtração do sangue e produção de urina no corpo humano?",
+    "alternativa": {
+      "A": "O fígado",
+      "B": "O estômago",
+      "C": "O rim",
+      "D": "A bexiga"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Como se chama a passagem direta de uma substância do estado sólido para o estado gasoso, sem passar pelo estado líquido?",
+    "alternativa": {
+      "A": "Fusão",
+      "B": "Sublimação",
+      "C": "Vaporização",
+      "D": "Solidificação"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o planeta mais próximo do Sol no nosso Sistema Solar?",
+    "alternativa": {
+      "A": "Vénus",
+      "B": "Marte",
+      "C": "Mercúrio",
+      "D": "Terra"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Que nome se dá à transferência de energia térmica que ocorre entre corpos devido à diferença de temperatura entre eles?",
+    "alternativa": {
+      "A": "Trabalho",
+      "B": "Calor",
+      "C": "Pressão",
+      "D": "Densidade"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a função principal do sistema imunitário humano?",
+    "alternativa": {
+      "A": "Transportar nutrientes para as células",
+      "B": "Defender o organismo contra vírus, bactérias e outras doenças",
+      "C": "Quebrar os alimentos em partículas menores",
+      "D": "Transmitir impulsos elétricos para os músculos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Que cientista e química polaca foi a primeira pessoa a ganhar dois Prémios Nobel em áreas científicas diferentes (Física e Química)?",
+    "alternativa": {
+      "A": "Rosalind Franklin",
+      "B": "Marie Curie",
+      "C": "Ada Lovelace",
+      "D": "Jane Goodall"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Como se chama o satélite natural do planeta Terra?",
+    "alternativa": {
+      "A": "Titã",
+      "B": "A Lua",
+      "C": "Marte",
+      "D": "Europa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual destas aves é amplamente conhecida por ser incapaz de voar, mas excelente nadadora?",
+    "alternativa": {
+      "A": "O pinguim",
+      "B": "A águia",
+      "C": "O pelicano",
+      "D": "A gaivota"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Em que órgão do sistema digestivo humano ocorre a maior parte da absorção de nutrientes dos alimentos?",
+    "alternativa": {
+      "A": "Estômago",
+      "B": "Intestino Delgado",
+      "C": "Intestino Grosso",
+      "D": "Esófago"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "O que indica a ocorrência de um sismo ou terramoto na crosta terrestre?",
+    "alternativa": {
+      "A": "A subida repentina das marés oceânicas",
+      "B": "A libertação súbita de energia acumulada nas falhas geológicas",
+      "C": "O aumento da temperatura na atmosfera",
+      "D": "A colisão de asteroides de pequeno porte"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a principal função dos glóbulos brancos (leucócitos) no corpo humano?",
+    "alternativa": {
+      "A": "Transportar oxigénio pelas artérias",
+      "B": "Promover a coagulação em caso de cortes",
+      "C": "Proteger e defender o organismo contra corpos estranhos e infecções",
+      "D": "Regular os batimentos cardíacos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual destas fontes de energia é considerada totalmente limpa e renovável por depender apenas da força dos ventos?",
+    "alternativa": {
+      "A": "Energia Nuclear",
+      "B": "Energia Eólica",
+      "C": "Energia Hidrelétrica",
+      "D": "Termoelétrica a carvão"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é a maior estrutura óssea da cabeça humana, encarregada de proteger o cérebro?",
+    "alternativa": {
+      "A": "O fémur",
+      "B": "A coluna vertebral",
+      "C": "O crânio",
+      "D": "A mandíbula"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Como se chama a ciência que se dedica especificamente ao estudo da classificação e agrupamento dos seres vivos?",
+    "alternativa": {
+      "A": "Ecologia",
+      "B": "Taxonomia",
+      "C": "Genética",
+      "D": "Citologia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual dos seguintes ecossistemas é marinho e conhecido pela sua imensa biodiversidade, sendo muitas vezes chamado de 'floresta tropical do oceano'?",
+    "alternativa": {
+      "A": "Mangais",
+      "B": "Recifes de Coral",
+      "C": "Estuários",
+      "D": "Planícies abissais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Na tabela periódica, qual é o elemento químico mais leve e simples que existe?",
+    "alternativa": {
+      "A": "Hélio",
+      "B": "Lítio",
+      "C": "Hidrogénio",
+      "D": "Carbono"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "O que acontece com as moléculas de um corpo quando a sua temperatura aumenta?",
+    "alternativa": {
+      "A": "Ficam totalmente imóveis",
+      "B": "Diminuem de tamanho",
+      "C": "Aumentam a sua velocidade e agitação térmica",
+      "D": "Transformam-se em átomos de hidrogénio"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Ciências Naturais",
+    "pergunta": "Qual é o maior osso do corpo humano, localizado na região da coxa?",
+    "alternativa": {
+      "A": "Tíbia",
+      "B": "Fémur",
+      "C": "Úmero",
+      "D": "Costela"
+    },
+    "resposta_correta": "B"
+  }
+]
+

@@ -1,0 +1,552 @@
+[
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o sujeito da frase 'Vende-se esta casa'?",
+    "alternativa": {
+      "A": "Inexistente",
+      "B": "Indeterminado",
+      "C": "Esta casa",
+      "D": "Oculto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual das opções apresenta um erro de ortografia?",
+    "alternativa": {
+      "A": "Excessivo",
+      "B": "Chuchu",
+      "C": "Reinvindicar",
+      "D": "Obsessão"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o antónimo de 'efémero'?",
+    "alternativa": {
+      "A": "Passageiro",
+      "B": "Duradouro",
+      "C": "Curto",
+      "D": "Veloz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Identifique a frase com erro de concordância verbal:",
+    "alternativa": {
+      "A": "Fazia cinco anos que não o via.",
+      "B": "Devem haver muitas pessoas lá fora.",
+      "C": "Fomos nós que limpámos a sala.",
+      "D": "Sobrou apenas um bilhete."
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O que é um hiato?",
+    "alternativa": {
+      "A": "Encontro de duas vogais em sílabas diferentes.",
+      "B": "Encontro de duas vogais na mesma sílaba.",
+      "C": "Encontro de uma vogal e uma semivogal.",
+      "D": "Junção de três sons vocálicos."
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o plural de 'cidadão'?",
+    "alternativa": {
+      "A": "Cidadãos",
+      "B": "Cidadões",
+      "C": "Cidadães",
+      "D": "Cidadoniz"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Na frase 'Ele correu que nem um leopardo', que figura de estilo sobressai?",
+    "alternativa": {
+      "A": "Metáfora",
+      "B": "Comparação",
+      "C": "Personificação",
+      "D": "Hipérbole"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual das palavras abaixo é paroxítona?",
+    "alternativa": {
+      "A": "Café",
+      "B": "Lápis",
+      "C": "Pássaro",
+      "D": "Caju"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Complete: 'Se tu _______ a verdade, tudo seria mais fácil.'",
+    "alternativa": {
+      "A": "Dissesses",
+      "B": "Dirias",
+      "C": "Disser",
+      "D": "Disseste"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o coletivo de 'lobos'?",
+    "alternativa": {
+      "A": "Manada",
+      "B": "Alcatreia",
+      "C": "Cardume",
+      "D": "Rebanho"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual frase usa a crase corretamente?",
+    "alternativa": {
+      "A": "Ele foi à Lisboa.",
+      "B": "Entreguei o documento à diretora.",
+      "C": "Prefiro andar à pé.",
+      "D": "Parabéns à todos."
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o superlativo absoluto sintético de 'fácil'?",
+    "alternativa": {
+      "A": "Muito fácil",
+      "B": "Facílimo",
+      "C": "Facilíssimo",
+      "D": "O mais fácil"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O que significa a palavra 'altruísmo'?",
+    "alternativa": {
+      "A": "Egoísmo extremo",
+      "B": "Amor ao próximo",
+      "C": "Orgulho exagerado",
+      "D": "Falta de paciência"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Escolha a forma correta: 'Vou _______ que tudo corra bem.'",
+    "alternativa": {
+      "A": "Torcer para",
+      "B": "Torcer por",
+      "C": "Torcer a",
+      "D": "Torcer de"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o sinónimo de 'inexorável'?",
+    "alternativa": {
+      "A": "Flexível",
+      "B": "Implacável",
+      "C": "Duvidoso",
+      "D": "Lento"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual o infinitivo do verbo 'coube'?",
+    "alternativa": {
+      "A": "Caber",
+      "B": "Couber",
+      "C": "Caber-se",
+      "D": "Cabir"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Indique o erro de regência nominal:",
+    "alternativa": {
+      "A": "Tenho medo a baratas.",
+      "B": "Ele é fiel aos seus princípios.",
+      "C": "Ela tem capacidade para o cargo.",
+      "D": "Estamos ansiosos pelo resultado."
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual palavra tem o mesmo significado de 'repreender'?",
+    "alternativa": {
+      "A": "Increpar",
+      "B": "Elogiar",
+      "C": "Absolver",
+      "D": "Tolerar"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual destas palavras é um estrangeirismo comum na língua?",
+    "alternativa": {
+      "A": "Computador",
+      "B": "Hambúrguer",
+      "C": "Janela",
+      "D": "Livro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o papel do conector 'portanto' numa frase?",
+    "alternativa": {
+      "A": "Exprimir causa",
+      "B": "Exprimir conclusão",
+      "C": "Exprimir oposição",
+      "D": "Exprimir condição"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Em 'O réu foi absolvido', qual é a voz verbal?",
+    "alternativa": {
+      "A": "Voz ativa",
+      "B": "Voz passiva",
+      "C": "Voz reflexiva",
+      "D": "Voz recíproca"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O plural de 'guarda-chuva' é:",
+    "alternativa": {
+      "A": "Guardas-chuva",
+      "B": "Guarda-chuvas",
+      "C": "Guardas-chuvas",
+      "D": "Guarda-chuva"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Indique a frase onde o 'porquê' está usado incorretamente:",
+    "alternativa": {
+      "A": "Não sei o porquê de tanta confusão.",
+      "B": "Estudas porquê?",
+      "C": "Ele não veio porque estava doente.",
+      "D": "O caminho por que passei era escuro."
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é a classe gramatical de 'bastante' em 'Eles correram bastante'?",
+    "alternativa": {
+      "A": "Adjetivo",
+      "B": "Advérbio",
+      "C": "Pronome",
+      "D": "Substantivo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o género da palavra 'derme'?",
+    "alternativa": {
+      "A": "Masculino",
+      "B": "Feminino",
+      "C": "Neutro",
+      "D": "Ambigúo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O que indica o modo subjuntivo/conjuntivo?",
+    "alternativa": {
+      "A": "Uma certeza",
+      "B": "Uma ordem ou pedido",
+      "C": "Uma dúvida, hipótese ou desejo",
+      "D": "Um facto passado concluído"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual palavra é formada por derivação prefixal?",
+    "alternativa": {
+      "A": "Infeliz",
+      "B": "Felizmente",
+      "C": "Amanhecer",
+      "D": "Girassol"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é o plural de 'mal'?",
+    "alternativa": {
+      "A": "Maus",
+      "B": "Males",
+      "C": "Malis",
+      "D": "Máis"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual a frase correta quanto ao uso do pronome?",
+    "alternativa": {
+      "A": "Me dá o livro, por favor.",
+      "B": "Deram-me o livro ontem.",
+      "C": "Não vi-o na escola.",
+      "D": "Quem chamou-me?"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O termo 'homógrafo' refere-se a palavras com:",
+    "alternativa": {
+      "A": "Mesma grafia e sons diferentes",
+      "B": "Grafia diferente e mesmo som",
+      "C": "Significados iguais",
+      "D": "Origens idênticas"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual o significado da expressão 'fazer vista grossa'?",
+    "alternativa": {
+      "A": "Enxergar mal",
+      "B": "Fingir que não viu algo errado",
+      "C": "Prestar muita atenção",
+      "D": "Olhar com raiva"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Indique o substantivo que muda de significado ao mudar de género:",
+    "alternativa": {
+      "A": "O estudante / A estudante",
+      "B": "O capital / A capital",
+      "C": "O jovem / A jovem",
+      "D": "O artista / A artista"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual frase possui uma onomatopeia?",
+    "alternativa": {
+      "A": "O vento sobrava forte.",
+      "B": "O 'tic-tac' do relógio irritava-o.",
+      "C": "Ela chorou rios de lágrimas.",
+      "D": "O sol brilhava no horizonte."
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "'Comprei um livro e li-o.' O termo 'li-o' possui um pronome em que função?",
+    "alternativa": {
+      "A": "Sujeito",
+      "B": "Objeto direto",
+      "C": "Objeto indireto",
+      "D": "Complemento nominal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual é a grafia correta?",
+    "alternativa": {
+      "A": "Auto-estima",
+      "B": "Autoestima",
+      "C": "Autostima",
+      "D": "Auto estima"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O que é um neologismo?",
+    "alternativa": {
+      "A": "Uma palavra antiga em desuso",
+      "B": "Uma palavra nova criada na língua",
+      "C": "Um erro grosseiro de pronúncia",
+      "D": "Uma figura de linguagem"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual o antónimo de 'lúcido'?",
+    "alternativa": {
+      "A": "Consciente",
+      "B": "Clarificado",
+      "C": "Confuso",
+      "D": "Esperto"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Assinale a frase com pleonasmo vicioso:",
+    "alternativa": {
+      "A": "Ele subiu para cima do telhado.",
+      "B": "Vi o filme ontem à noite.",
+      "C": "Todos sabiam do ocorrido.",
+      "D": "Ela mesma resolveu o problema."
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O plural de 'pão de ló' é:",
+    "alternativa": {
+      "A": "Pães de ló",
+      "B": "Pães de lós",
+      "C": "Pão de lós",
+      "D": "Pães dos lós"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual a função sintática de 'de ferro' em 'Porta de ferro'?",
+    "alternativa": {
+      "A": "Adjunto adnominal",
+      "B": "Complemento nominal",
+      "C": "Predicativo do sujeito",
+      "D": "Objeto indireto"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual o significado de 'procrastinar'?",
+    "alternativa": {
+      "A": "Adiantar tarefas",
+      "B": "Adiar ou estender prazos",
+      "C": "Resolver problemas rapidamente",
+      "D": "Discutir sem motivo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Identifique o erro na divisão silábica:",
+    "alternativa": {
+      "A": "Rit-mo",
+      "B": "Ap-to",
+      "C": "P-si-co-lo-gi-a",
+      "D": "Pers-pi-caz"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual verbo é abundante (possui dois particípios)?",
+    "alternativa": {
+      "A": "Escrever",
+      "B": "Aceitar",
+      "C": "Fazer",
+      "D": "Ver"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual palavra não deriva do latim?",
+    "alternativa": {
+      "A": "Mesa",
+      "B": "Janela",
+      "C": "Deletar (origem inglesa moderna)",
+      "D": "Fogo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual a regência correta para o verbo 'assistir' no sentido de ver?",
+    "alternativa": {
+      "A": "Assistir o filme",
+      "B": "Assistir ao filme",
+      "C": "Assistir no filme",
+      "D": "Assistir pelo filme"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual o nome do sinal gráfico usado para unir elementos de palavras compostas?",
+    "alternativa": {
+      "A": "Hífen",
+      "B": "Travessão",
+      "C": "Parênteses",
+      "D": "Apóstrofo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual das palavras seguintes é invariável em género e número?",
+    "alternativa": {
+      "A": "Lápis",
+      "B": "Alguém",
+      "C": "Alto",
+      "D": "Qual"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Em qual das opções a palavra 'que' funciona como conjunção integrante?",
+    "alternativa": {
+      "A": "O rapaz que saiu era meu irmão.",
+      "B": "Quero que venhas cedo.",
+      "C": "Que belo dia!",
+      "D": "Tenemos muito que fazer."
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "O que avalia a semântica?",
+    "alternativa": {
+      "A": "A estrutura das frases",
+      "B": "O significado das palavras e frases",
+      "C": "A origem histórica dos termos",
+      "D": "A pronúncia correta dos sons"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Língua Portuguesa",
+    "pergunta": "Qual frase apresenta uma ambiguidade (duplo sentido)?",
+    "alternativa": {
+      "A": "O rapaz viu o amigo no seu carro.",
+      "B": "O sol nasceu muito cedo hoje.",
+      "C": "Comprei os livros na livraria central.",
+      "D": "Eles viajaram durante a noite de comboio."
+    },
+    "resposta_correta": "A"
+  }
+]

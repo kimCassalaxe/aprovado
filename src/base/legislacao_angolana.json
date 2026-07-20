@@ -1,0 +1,552 @@
+[
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Em que ano foi aprovada a atual Constituição da República de Angola?",
+    "alternativa": {
+      "A": "1992",
+      "B": "2010",
+      "C": "2015",
+      "D": "2021"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Segundo a CRA, qual é a língua oficial da República de Angola?",
+    "alternativa": {
+      "A": "O umbundu",
+      "B": "O português",
+      "C": "O kimbundu",
+      "D": "O português e todas as línguas nacionais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "De acordo com a Constituição, a República de Angola é um Estado democrático de:",
+    "alternativa": {
+      "A": "Direito",
+      "B": "Poder Absoluto",
+      "C": "Partidocracia",
+      "D": "Federação"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "A quem pertence a soberania do Estado angolano, segundo a CRA?",
+    "alternativa": {
+      "A": "Ao Presidente da República",
+      "B": "À Assembleia Nacional",
+      "C": "Ao Povo",
+      "D": "Aos Tribunais"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é o órgão de soberania que representa todos os cidadãos angolanos e exerce o poder legislativo?",
+    "alternativa": {
+      "A": "O Tribunal Constitucional",
+      "B": "A Assembleia Nacional",
+      "C": "O Conselho de Ministros",
+      "D": "O Conselho da República"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é a duração do mandato do Presidente da República de Angola?",
+    "alternativa": {
+      "A": "4 anos",
+      "B": "5 anos",
+      "C": "6 anos",
+      "D": "7 anos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Segundo a CRA, quantos mandatos consecutivos pode exercer o Presidente da República?",
+    "alternativa": {
+      "A": "Apenas 1 mandato",
+      "B": "Até 2 mandatos",
+      "C": "Até 3 mandatos",
+      "D": "Mandatos ilimitados"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Quem substitui o Presidente da República em caso de ausência ou impedimento temporário?",
+    "alternativa": {
+      "A": "O Presidente da Assembleia Nacional",
+      "B": "O Vice-Presidente da República",
+      "C": "O Ministro de Estado e Chefe da Casa Civil",
+      "D": "O Juiz Presidente do Tribunal Supremo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é o órgão judicial máximo da República de Angola em matéria constitucional?",
+    "alternativa": {
+      "A": "O Tribunal Supremo",
+      "B": "O Tribunal de Contas",
+      "C": "O Tribunal Constitucional",
+      "D": "A Procuradoria-Geral da República"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "De acordo com a Lei Constitucional, os deputados à Assembleia Nacional são eleitos por que sistema?",
+    "alternativa": {
+      "A": "Sufrágio indireto apenas por colégio eleitoral",
+      "B": "Sufrágio universal, livre, direto, secreto e periódico",
+      "C": "Nomeação presidencial direta",
+      "D": "Votação restrita aos membros dos partidos inscritos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é a idade mínima exigida pela CRA para que um cidadão possa ser eleito Presidente da República?",
+    "alternativa": {
+      "A": "25 anos",
+      "B": "30 anos",
+      "C": "35 anos",
+      "D": "40 anos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é o órgão de fiscalização externa da execução do Orçamento Geral do Estado (OGE) em Angola?",
+    "alternativa": {
+      "A": "O Banco Nacional de Angola",
+      "B": "O Tribunal de Contas",
+      "C": "O Ministério das Finanças",
+      "D": "O Tribunal Supremo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "De acordo com o princípio da laicidade na CRA, a República de Angola é um Estado:",
+    "alternativa": {
+      "A": "Católico",
+      "B": "Laico (separado das igrejas)",
+      "C": "Teocrático",
+      "D": "Protestante"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual das seguintes opções NÃO é um direito fundamental garantido pela CRA?",
+    "alternativa": {
+      "A": "Direito à vida e à integridade pessoal",
+      "B": "Direito à liberdade de expressão e de informação",
+      "C": "Direito de posse exclusiva e obrigatória de bens públicos",
+      "D": "Direito à propriedade privada"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Em Angola, a pena de morte é permitida em que situações segundo a CRA?",
+    "alternativa": {
+      "A": "Apenas em crimes de alta traição",
+      "B": "Em tempos de guerra declarada",
+      "C": "É expressamente proibida em qualquer circunstância",
+      "D": "Para crimes hediondos contra civis"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Quem é o Comandante-em-Chefe das Forças Armadas Angolanas (FAA)?",
+    "alternativa": {
+      "A": "O Chefe do Estado-Maior General das FAA",
+      "B": "O Ministro da Defesa Nacional",
+      "C": "O Presidente da República",
+      "D": "O Presidente da Assembleia Nacional"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Como se chama o documento que estima as receitas e fixa as despesas do Estado angolano para cada ano económico?",
+    "alternativa": {
+      "A": "Plano Nacional de Desenvolvimento (PND)",
+      "B": "Orçamento Geral do Estado (OGE)",
+      "C": "Balanço Comercial de Angola",
+      "D": "Estatuto Orgânico do Estado"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Segundo a CRA, a quem cabe a iniciativa de revisão constitucional?",
+    "alternativa": {
+      "A": "Apenas ao Presidente da República",
+      "B": "Ao Presidente da República ou a um terço dos Deputados em efetividade de funções",
+      "C": "Exclusivamente ao Presidente do Tribunal Constitucional",
+      "D": "Qualquer cidadão individual através de petição com 500 assinaturas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual das opções representa o símbolo heráldico da República de Angola, além da Bandeira Nacional?",
+    "alternativa": {
+      "A": "A Palanca Negra Gigante",
+      "B": "A Insígnia da República",
+      "C": "O Pensador",
+      "D": "A árvore do Imbondeiro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Que instituição tem como função essencial a defesa da legalidade democrática e a representação do Estado junto dos tribunais?",
+    "alternativa": {
+      "A": "A Ordem dos Advogados de Angola",
+      "B": "A Procuradoria-Geral da República",
+      "C": "O Ministério da Justiça e dos Direitos Humanos",
+      "D": "A Provedoria de Justiça"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é o órgão público independente que tem por objeto a defesa dos direitos, liberdades e garantias dos cidadãos perante a administração pública?",
+    "alternativa": {
+      "A": "A Provedoria de Justiça",
+      "B": "O Tribunal Supremo",
+      "C": "O Conselho da República",
+      "D": "A Inspeção Geral da Administração do Estado (IGAE)"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "O território da República de Angola divide-se politicamente em:",
+    "alternativa": {
+      "A": "Províncias, Municípios e Distritos Urbanos/Comunas",
+      "B": "Estados, Províncias e Vilas",
+      "C": "Regiões Autónomas e Zonas Francas",
+      "D": "Condados, Províncias e Cidades"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "De acordo com a CRA, os recursos naturais e minerais existentes no solo e subsolo do território angolano são propriedade de quem?",
+    "alternativa": {
+      "A": "Das empresas concessionárias internacionais",
+      "B": "Do Estado angolano",
+      "C": "Dos governos provinciais locais",
+      "D": "Dos proprietários privados dos terrenos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é a designação do hino nacional da República de Angola?",
+    "alternativa": {
+      "A": "Angola, Avante!",
+      "B": "Pátria Unida",
+      "C": "Sagrada Esperança",
+      "D": "Avante, Povo Angolano"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "A extradição de cidadãos angolanos do território nacional para outros países é:",
+    "alternativa": {
+      "A": "Permitida se solicitada pela Interpol",
+      "B": "Expressamente proibida pela CRA",
+      "C": "Decidida livremente pelo Ministério do Interior",
+      "D": "Permitida apenas para crimes económicos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "De acordo com a Lei n.º 12/23 (Nova Lei Geral do Trabalho em Angola), qual é o limite da duração do período experimental para os contratos por tempo indeterminado, como regra geral?",
+    "alternativa": {
+      "A": "30 dias",
+      "B": "60 dias",
+      "C": "90 dias",
+      "D": "180 dias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Segundo a Lei Geral do Trabalho vigente, qual é a duração máxima normal da jornada de trabalho semanal?",
+    "alternativa": {
+      "A": "35 horas",
+      "B": "40 horas",
+      "C": "44 horas",
+      "D": "48 hours"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "A quantos dias úteis de férias regulamentares o trabalhador angolano tem direito por cada ano de trabalho efetivo?",
+    "alternativa": {
+      "A": "15 dias",
+      "B": "22 dias",
+      "C": "26 dias",
+      "D": "30 dias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "De acordo com a legislação penal angolana, qual é o limite máximo geral da pena de prisão aplicável no ordenamento jurídico?",
+    "alternativa": {
+      "A": "20 anos",
+      "B": "25 anos",
+      "C": "30 anos",
+      "D": "35 anos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é a idade mínima de responsabilidade criminal aplicável em Angola segundo o Código Penal?",
+    "alternativa": {
+      "A": "12 anos",
+      "B": "14 anos",
+      "C": "16 anos",
+      "D": "18 anos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual destas instituições públicas angolanas está diretamente sob a tutela do Ministério do Interior (MININT)?",
+    "alternativa": {
+      "A": "Polícia Nacional de Angola (PNA)",
+      "B": "Forças Armadas Angolanas (FAA)",
+      "C": "Serviço de Inteligência e Segurança de Estado (SINSE)",
+      "D": "Agência Nacional de Proteção de Dados (ANPD)"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é o órgão do MININT responsável pelo controlo de fronteiras, emissão de vistos e regularização de estrangeiros em Angola?",
+    "alternativa": {
+      "A": "Serviço de Investigação Criminal (SIC)",
+      "B": "Serviço de Migração e Estrangeiros (SME)",
+      "C": "Serviço de Proteção Civil e Bombeiros (SPCB)",
+      "D": "Serviço Penitenciário (SP)"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Quem nomeia e exonera o Comandante Geral da Polícia Nacional de Angola?",
+    "alternativa": {
+      "A": "O Ministro do Interior",
+      "B": "O Conselho de Ministros",
+      "C": "O Presidente da República",
+      "D": "A Assembleia Nacional"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é o órgão independente responsável pela organização, execução e coordenação dos processos eleitorais em Angola?",
+    "alternativa": {
+      "A": "Ministério da Administração do Território (MAT)",
+      "B": "Comissão Nacional Eleitoral (CNE)",
+      "C": "Tribunal Constitucional",
+      "D": "Procuradoria-Geral da República"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Como se chama o registo obrigatório que permite ao cidadão angolano maior de 18 anos exercer o direito de voto?",
+    "alternativa": {
+      "A": "Censo Populacional Geral",
+      "B": "Registo Eleitoral Oficioso",
+      "C": "Cadastro Civil Único",
+      "D": "Matrícula de Cidadania"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "A Lei da Arbitragem Voluntária em Angola serve essencialmente para:",
+    "alternativa": {
+      "A": "Resolver conflitos jurídicos fora dos tribunais judiciais comuns",
+      "B": "Regulamentar os contratos de trabalho da função pública",
+      "C": "Definir as regras do desporto nacional",
+      "D": "Controlar as manifestações públicas nas capitais"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual das seguintes entidades detém a competência originária para aplicar multas ambientais a empresas em Angola?",
+    "alternativa": {
+      "A": "O Ministério do Ambiente",
+      "B": "A Polícia Nacional",
+      "C": "O Tribunal Constitucional",
+      "D": "As administrações comunais exclusivamente"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Segundo o Código Penal angolano, o crime de difamação enquadra-se em que categoria?",
+    "alternativa": {
+      "A": "Crimes contra o património",
+      "B": "Crimes contra a integridade física",
+      "C": "Crimes contra a honra",
+      "D": "Crimes contra a segurança do Estado"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Em Angola, qual é o imposto que incide sobre o rendimento do trabalho por conta própria ou por conta de outrem?",
+    "alternativa": {
+      "A": "Imposto sobre o Valor Acrescentado (IVA)",
+      "B": "Imposto Predial (IP)",
+      "C": "Imposto sobre o Rendimento do Trabalho (IRT)",
+      "D": "Imposto Industrial (II)"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é a instituição financeira que atua como Banco Central e autoridade reguladora do sistema bancário em Angola?",
+    "alternativa": {
+      "A": "Banco de Poupança e Crédito (BPC)",
+      "B": "Banco Nacional de Angola (BNA)",
+      "C": "Banco de Desenvolvimento de Angola (BDA)",
+      "D": "Ministério das Finanças"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "De acordo com a Lei das Associações Simples, os cidadãos têm direito de livre associação sem necessidade de autorização de que entidade?",
+    "alternativa": {
+      "A": "Autoridade pública administrativa",
+      "B": "Tribunais de Comarca",
+      "C": "Sindicato patronal",
+      "D": "Administração municipal"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "A Lei sobre o Direito de Asilo e o Estatuto de Refugiado em Angola proíbe a expulsão do refugiado para territórios onde a sua vida corra perigo. Como se chama este princípio internacional adotado na lei angolana?",
+    "alternativa": {
+      "A": "Princípio do Non-refoulement (não-repulsão)",
+      "B": "Princípio da Dupla Nacionalidade",
+      "C": "Princípio do Trânsito Livre",
+      "D": "Princípio da Extradição Obrigatória"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual das seguintes forças policiais do MININT tem a missão primária de garantir a ordem, tranquilidade e segurança públicas em todo o território nacional?",
+    "alternativa": {
+      "A": "Polícia de Intervenção Rápida (PIR)",
+      "B": "Serviço de Investigação Criminal (SIC)",
+      "C": "Polícia de Ordem Pública (POP)",
+      "D": "Polícia Fiscal Aduaneira"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Em Angola, as leis aprovadas pela Assembleia Nacional só entram formalmente em vigor após publicação em qual documento oficial?",
+    "alternativa": {
+      "A": "Boletim Municipal",
+      "B": "Diário da República",
+      "C": "Jornal de Angola",
+      "D": "Relatório Anual do Governo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é a designação atribuída aos tribunais angolanos de primeira instância na atual organização judiciária do país?",
+    "alternativa": {
+      "A": "Tribunais de Comarca",
+      "B": "Tribunais de Relação",
+      "C": "Tribunais Municipais Antigos",
+      "D": "Tribunais de Província"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Segundo a lei angolana de proteção ao consumidor, em caso de defeito do produto, o consumidor tem direito a exigir a reparação ou substituição no prazo de garantia. Qual é o prazo legal mínimo geral para bens duráveis?",
+    "alternativa": {
+      "A": "6 meses",
+      "B": "1 ano",
+      "C": "2 anos",
+      "D": "5 anos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual o nome do estatuto jurídico regulador que define os direitos, deveres e carreiras dos funcionários que trabalham na Administração Pública Direta e Indireta do Estado?",
+    "alternativa": {
+      "A": "Estatuto do Gestor Público",
+      "B": "Estatuto do Funcionário Público e Agente Administrativo",
+      "C": "Lei Geral do Trabalho Comercial",
+      "D": "Código do Procedimento Administrativo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "Qual é o órgão governamental angolano responsável pela arrecadação de impostos, fiscalização aduaneira e execução da política tributária?",
+    "alternativa": {
+      "A": "Administração Geral Tributária (AGT)",
+      "B": "Banco Nacional de Angola (BNA)",
+      "C": "Fundo de Garantia de Crédito (FGC)",
+      "D": "Secretaria de Estado do Tesouro"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Legislação Angolana e Constituição",
+    "pergunta": "A Lei sobre o Direito de Reunião e de Manifestação em Angola determina que os cidadãos que pretendam realizar uma manifestação devem avisar as autoridades locais com que antecedência mínima?",
+    "alternativa": {
+      "A": "24 horas",
+      "B": "3 dias úteis",
+      "C": "5 dias úteis",
+      "D": "10 dias"
+    },
+  "resposta_correta": "B"
+  },
+  {
+"categoria": "Legislação Angolana e Constituição",
+"pergunta": "Quem preside o Conselho de Ministros em Angola?",
+"alternativa": {
+  "A": "O Primeiro-Ministro",
+  "B": "O Presidente da Assembleia Nacional",
+  "C": "O Presidente da República",
+  "D": "O Vice-Presidente da República"
+},
+"resposta_correta": "C"
+}
+]

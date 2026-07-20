@@ -1,0 +1,1652 @@
+[
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é a forma de Estado adotada pela República de Angola, segundo a sua Lei Suprema?",
+    "alternativa": {
+      "A": "Estado Federal",
+      "B": "Estado Unitário",
+      "C": "Confederação de Estados",
+      "D": "Estado Regional Autónomo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é a forma de Governo estabelecida na Constituição da República de Angola?",
+    "alternativa": {
+      "A": "Monarquia Constitucional",
+      "B": "República Presidentialista",
+      "C": "República Parlamentar",
+      "D": "República Semipresidencial"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Segundo a Constituição (CRA), quais são os três Órgãos de Soberania do Estado angolano?",
+    "alternativa": {
+      "A": "O Presidente, os Ministros e os Governadores",
+      "B": "O Presidente da República, a Assembleia Nacional e os Tribunais",
+      "C": "O MPLA, a UNITA e a FNLA",
+      "D": "O Exército, a Polícia e a Magistratura"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se define a posição do Presidente da República na estrutura do poder político em Angola?",
+    "alternativa": {
+      "A": "Exerce apenas o papel de Chefe de Estado",
+      "B": "É simultaneamente Chefe de Estado, Titular do Poder Executivo e Comandante-em-Chefe",
+      "C": "É apenas o Chefe do Governo, sem funções militares",
+      "D": "Partilha o comando do Poder Executivo de igual para igual com o Primeiro-Ministro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é o número total de deputados que compõem o plenário da Assembleia Nacional de Angola?",
+    "alternativa": {
+      "A": "150 deputados",
+      "B": "180 deputados",
+      "C": "220 deputados",
+      "D": "250 deputados"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como são distribuídos os assentos dos deputados na Assembleia Nacional nas eleições legislativas?",
+    "alternativa": {
+      "A": "Apenas por nomeação direta do Presidente da República",
+      "B": "Por um círculo nacional único e por círculos provinciais (5 deputados por província)",
+      "C": "Apenas pelos votos totais da Província de Luanda",
+      "D": "Por votação direta nos municípios, elegendo um deputado por município"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se designa o órgão de consulta do Presidente da República que integra figuras políticas, tradicionais e da sociedade civil?",
+    "alternativa": {
+      "A": "Conselho de Ministros",
+      "B": "Conselho da República",
+      "C": "Conselho de Segurança Nacional",
+      "D": "Conselho Económico e Social"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quem nomeia formalmente os Governadores das dezoito províncias que constituem o território nacional?",
+    "alternativa": {
+      "A": "O Povo, através de eleições municipais",
+      "B": "O Presidente da República",
+      "C": "O Presidente da Assembleia Nacional",
+      "D": "O Ministro da Administração do Território"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "A desconcentração administrativa em Angola realiza-se essencialmente através de que órgãos da administração local?",
+    "alternativa": {
+      "A": "Dos Governos Provinciais e das Administrações Municipais",
+      "B": "Das Embaixadas e Consulados",
+      "C": "Dos Sindicatos e Associações de Bairro",
+      "D": "Das Empresas Públicas Interprovinciais"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "O Poder Local em Angola, conforme previsto na Constituição, compreende quais entidades autónomas?",
+    "alternativa": {
+      "A": "As Forças Armadas e as Corporações Policiais",
+      "B": "As Autarquias Locais, as Instituições do Poder Tradicional e outras organizações",
+      "C": "As Delegações Ministeriais Provinciais",
+      "D": "Os Comités de Especialidade dos Partidos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é a designação atribuída aos órgãos representativos das autarquias locais compostos por cidadãos eleitos?",
+    "alternativa": {
+      "A": "Conselhos de Concertação Social",
+      "B": "Assembleias das Autarquias (ou Municipais) e Órgãos Executivos",
+      "C": "Comissões de Moradores",
+      "D": "Tribunais Populares Autárquicos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Segundo a CRA, as autoridades tradicionais são reconhecidas pelo Estado de acordo com o quê?",
+    "alternativa": {
+      "A": "As leis aprovadas pelos partidos internacionais",
+      "B": "O direito consuetudinário (costumes) que não contrarie a Constituição",
+      "C": "A nomeação efetuada pelas administrações municipais",
+      "D": "O tempo de serviço militar prestado às Forças Armadas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é a instituição encarregada de gerir e disciplinar os magistrados judiciais em Angola?",
+    "alternativa": {
+      "A": "O Ministério da Justiça e dos Direitos Humanos",
+      "B": "O Conselho Superior da Magistratura Judicial",
+      "C": "A Ordem dos Advogados de Angola",
+      "D": "A Assembleia Nacional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se chama o órgão colegial auxiliar do Presidente da República na formulação e execução da política geral do país?",
+    "alternativa": {
+      "A": "Assembleia Nacional",
+      "B": "Conselho de Ministros",
+      "C": "Conselho de Magistratura",
+      "D": "Conselho de Defesa Nacional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual destas entidades públicas possui autonomia financeira e administrativa para gerir as receitas fiscais do Estado?",
+    "alternativa": {
+      "A": "A Administração Geral Tributária (AGT)",
+      "B": "A Polícia de Ordem Pública",
+      "C": "A Provedoria de Justiça",
+      "D": "As Secretarias dos Tribunais de Comarca"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "A quem cabe exercer as funções de direção superior na Província, representando o Titular do Poder Executivo?",
+    "alternativa": {
+      "A": "Ao Administrador Municipal",
+      "B": "Ao Governador Provincial",
+      "C": "Ao Comandante Provincial da PNA",
+      "D": "Ao Juiz Presidente do Tribunal de Relação"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quantos municípios constituem atualmente a divisão administrativa da República de Angola?",
+    "alternativa": {
+      "A": "164 municípios",
+      "B": "168 municípios",
+      "C": "172 municípios",
+      "D": "180 municípios"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é o ministério do Governo angolano encarregado de superintender a administração local, o desenvolvimento territorial e o processo eleitoral do lado do executivo?",
+    "alternativa": {
+      "A": "Ministério do Interior",
+      "B": "Ministério da Administração do Território (MAT)",
+      "C": "Ministério do Planeamento",
+      "D": "Ministério das Finanças"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Segundo o princípio da descentralização administrativa, o poder é transferido do Estado para:",
+    "alternativa": {
+      "A": "Empresas privadas estrangeiras",
+      "B": "Pessoas coletivas autónomas (como as autarquias locais)",
+      "C": "Delegações provinciais nomeadas diretamente",
+      "D": "Comissões partidárias regionais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se chama o cargo ocupado pela figura que lidera os trabalhos e sessões plenárias na Assembleia Nacional?",
+    "alternativa": {
+      "A": "Presidente da República",
+      "B": "Presidente da Assembleia Nacional",
+      "C": "Primeiro Secretário do Plenário",
+      "D": "Procurador-Geral da República"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quem possui a legitimidade para fiscalizar as contas e os atos da Administração Pública direta do Estado angolano, sob o ponto de vista da legalidade financeira?",
+    "alternativa": {
+      "A": "O Banco Nacional de Angola",
+      "B": "O Tribunal de Contas",
+      "C": "O Tribunal Supremo",
+      "D": "A Inspeção das Forças Armadas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Os atos normativos emitidos pelo Presidente da República, na qualidade de Titular do Poder Executivo, para regulamentar leis revestem a forma de:",
+    "alternativa": {
+      "A": "Leis Orgânicas",
+      "B": "Decretos Presidenciais",
+      "C": "Resoluções Legislativas",
+      "D": "Despachos Judiciais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se designa a menor unidade administrativa de caráter urbano ou comunal em que se dividem os municípios angolanos?",
+    "alternativa": {
+      "A": "Distritos Urbanos ou Comunas",
+      "B": "Bairros Gerais",
+      "C": "Senzalas Autónomas",
+      "D": "Zonas Livres"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quem coordena a ação do Executivo e assessora diretamente o Presidente da República nas funções de governação?",
+    "alternativa": {
+      "A": "O Presidente da Assembleia Nacional",
+      "B": "O Vice-Presidente da República",
+      "C": "O Juiz Conselheiro Presidente",
+      "D": "O Secretário-Geral da OGE"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "O sistema político de Angola assenta em qual princípio no que toca à existência de partidos políticos?",
+    "alternativa": {
+      "A": "Monopartidarismo (partido único)",
+      "B": "Pluralismo Político e Multipartidarismo",
+      "C": "Bipartidarismo obrigatório por lei",
+      "D": "Ausência total de agremiações partidárias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual das seguintes instituições detém a competência exclusiva de instruir os processos criminais e exercer a ação penal em Angola?",
+    "alternativa": {
+      "A": "O Serviço de Investigação Criminal (SIC)",
+      "B": "A Procuradoria-Geral da República (PGR)",
+      "C": "O Ministério da Justiça e dos Direitos Humanos",
+      "D": "O Tribunal Supremo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se designa o órgão de cúpula da jurisdição comum no poder judicial da República de Angola?",
+    "alternativa": {
+      "A": "Tribunal Constitucional",
+      "B": "Tribunal Supremo",
+      "C": "Tribunal de Contas",
+      "D": "Tribunal Supremo Militar"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quem detém a competência constitucional de aprovar o Orçamento Geral do Estado (OGE) em Angola?",
+    "alternativa": {
+      "A": "O Presidente da República",
+      "B": "A Assembleia Nacional",
+      "C": "O Ministério das Finanças",
+      "D": "O Banco Nacional de Angola"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Os magistrados do Ministério Público em Angola são disciplinados e geridos por qual órgão próprio?",
+    "alternativa": {
+      "A": "Conselho Superior da Magistratura Judicial",
+      "B": "Conselho Superior da Magistratura do Ministério Público",
+      "C": "Ministério da Justiça e dos Direitos Humanos",
+      "D": "Procuradoria-Geral da República exclusivamente"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é o quórum de deputados exigido na Assembleia Nacional para a aprovação de uma lei orgânica, em termos gerais?",
+    "alternativa": {
+      "A": "Maioria simples dos deputados presentes",
+      "B": "Maioria absoluta dos deputados em efetividade de funções",
+      "C": "Dois terços dos deputados presentes",
+      "D": "Unanimidade dos votos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Os ministros de Estado, ministros e secretários de Estado são nomeados por qual entidade pública?",
+    "alternativa": {
+      "A": "Pelo Presidente da Assembleia Nacional",
+      "B": "Pelo Presidente da República",
+      "C": "Por votação direta em Conselho de Ministros",
+      "D": "Pelo Conselho da República"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quem exerce as funções de fiscalização e controlo da execução orçamental da administração local do Estado ao nível do município?",
+    "alternativa": {
+      "A": "A Assembleia Nacional e o Tribunal de Contas",
+      "B": "O Administrador Municipal exclusivamente",
+      "C": "As comissões de moradores e a polícia municipal",
+      "D": "Os comités de especialidade locais"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Em Angola, o Provedor de Justiça e o Provedor de Justiça Adjunto são eleitos por qual órgão de soberania?",
+    "alternativa": {
+      "A": "Pelo Presidente da República",
+      "B": "Pela Assembleia Nacional",
+      "C": "Pelo Conselho Superior da Magistratura Judicial",
+      "D": "Pelo Tribunal Constitucional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "A responsabilidade civil do Estado angolano por danos causados por ações ou omissões ilícitas dos seus agentes é:",
+    "alternativa": {
+      "A": "Inexistente no ordenamento jurídico",
+      "B": "Exigível nos termos da lei, aplicando-se o direito à indemnização",
+      "C": "Atribuída exclusivamente ao agente individual em tribunal militar",
+      "D": "Resolvida apenas por via de decreto presidencial de amnistia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Os juízes conselheiros do Tribunal Constitucional de Angola exercem as suas funções por qual período de mandato?",
+    "alternativa": {
+      "A": "Mandato de 5 anos, renovável uma vez",
+      "B": "Mandato de 7 anos, não renovável",
+      "C": "Mandato vitalício até à jubilação",
+      "D": "Mandato coincidente com a legislatura da Assembleia Nacional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual é o órgão responsável por assegurar a recolha, tratamento e difusão de informação de segurança necessária à preservação da estabilidade interna?",
+    "alternativa": {
+      "A": "A Polícia de Intervenção Rápida (PIR)",
+      "B": "O Serviço de Inteligência e Segurança de Estado (SINSE)",
+      "C": "O Serviço de Investigação Criminal (SIC)",
+      "D": "As Forças Armadas Angolanas (FAA)"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual das seguintes jurisdições especiais tem como missão julgar os crimes de natureza estritamente militar?",
+    "alternativa": {
+      "A": "Os Tribunais de Comarca",
+      "B": "Os Tribunais Militares",
+      "C": "O Tribunal Supremo Geral",
+      "D": "As comissões de disciplina do MAT"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quem nomeia o Procurador-Geral da República em Angola, sob proposta do Conselho Superior da Magistratura do Ministério Público?",
+    "alternativa": {
+      "A": "O Presidente da Assembleia Nacional",
+      "B": "O Presidente da República",
+      "C": "O Juiz Presidente do Tribunal Supremo",
+      "D": "O plenário do Tribunal Constitucional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "As receitas arrecadadas pelas autarquias locais através de impostos locais destinam-se a financiar:",
+    "alternativa": {
+      "A": "O Orçamento Geral do Estado centralizado",
+      "B": "As despesas e atribuições próprias da respetiva autarquia",
+      "C": "As atividades exclusivas dos partidos políticos da região",
+      "D": "As subvenções aduaneiras das províncias vizinhas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "O princípio da descentralização administrativa foca-se na autonomia das autarquias. Já a desconcentração administrativa caracteriza-se por:",
+    "alternativa": {
+      "A": "Criação de novos Estados federados",
+      "B": "Distribuição de competências dentro da própria estrutura da administração do Estado",
+      "C": "Extinção dos municípios e comunas",
+      "D": "Privatização de todos os serviços de utilidade pública"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Em Angola, qual é o estatuto jurídico conferido à Província de Luanda no âmbito da sua gestão administrativa complexa?",
+    "alternativa": {
+      "A": "Região Autónoma Federada",
+      "B": "Unidade Administrativa com regime especial de gestão",
+      "C": "Distrito Federal Independente",
+      "D": "Território Ultramarino Desconcentrado"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual destas entidades públicas atua como o órgão superior de fiscalização e auditoria interna de toda a atividade administrativa do Estado?",
+    "alternativa": {
+      "A": "A Administração Geral Tributária (AGT)",
+      "B": "A Inspeção Geral da Administração do Estado (IGAE)",
+      "C": "O Banco Nacional de Angola (BNA)",
+      "D": "O Tribunal de Contas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se designa o documento oficial que contém o programa de governação e as metas de desenvolvimento económico de médio prazo em Angola?",
+    "alternativa": {
+      "A": "Relatório de Execução Financeira",
+      "B": "Plano Nacional de Desenvolvimento (PND)",
+      "C": "Estatuto Orgânico dos Ministérios",
+      "D": "Livro Branco da Defesa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Os regulamentos administrativos das administrações municipais que criam posturas locais entram em vigor após:",
+    "alternativa": {
+      "A": "Assinatura confidencial do Administrador",
+      "B": "Publicação nos termos legais e afixação nos locais públicos e diários oficiais",
+      "C": "Aprovação unânime do comité de bairro",
+      "D": "Homologação direta pelo Tribunal Supremo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Qual das seguintes opções constitui um crime de responsabilidade cometido por titulares de cargos políticos no exercício das suas funções?",
+    "alternativa": {
+      "A": "Apresentação de propostas de lei à Assembleia",
+      "B": "Desvio de fundos públicos ou peculato",
+      "C": "Participação em comícios partidários autorizados",
+      "D": "Emissão de despachos administrativos de rotina"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "A delimitação territorial dos municípios angolanos pode ser alterada através de qual instrumento jurídico?",
+    "alternativa": {
+      "A": "Ordem de serviço do Governador Provincial",
+      "B": "Lei aprovada pela Assembleia Nacional",
+      "C": "Postura municipal do próprio município",
+      "D": "Circular interna do Ministério do Interior"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Os conflitos de competências entre diferentes ministérios do Poder Executivo em Angola são dirimidos por quem?",
+    "alternativa": {
+      "A": "Pelo Presidente do Tribunal Supremo",
+      "B": "Pelo Presidente da República, enquanto Titular do Poder Executivo",
+      "C": "Pelo Presidente da Assembleia Nacional",
+      "D": "Por uma comissão mista de deputados"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "A participação dos cidadãos na gestão da administração local em Angola é fomentada através de quais órgãos consultivos?",
+    "alternativa": {
+      "A": "Dos Conselhos de Auscultação da Comunidade",
+      "B": "Dos Tribunais Militares de Região",
+      "C": "Das Direções Provinciais da AGT",
+      "D": "Dos Comissariados Policiais de Esquadra"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Quem possui a prerrogativa constitucional de declarar o estado de sítio ou o estado de emergência em Angola, após consulta aos órgãos competentes?",
+    "alternativa": {
+      "A": "O Chefe do Estado-Maior das FAA",
+      "B": "O Presidente da República",
+      "C": "O Presidente da Assembleia Nacional",
+      "D": "O Juiz Presidente do Tribunal Constitucional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização Política e Administrativa de Angola",
+    "pergunta": "Como se chama o princípio que obriga a Administração Pública angolana a atuar estritamente em conformidade com a lei e o direito?",
+    "alternativa": {
+      "A": "Princípio da Autonomia Financeira",
+      "B": "Princípio da Legalidade",
+      "C": "Princípio da Discricionariedade Absoluta",
+      "D": "Princípio da Conveniência Política"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Qual das seguintes opções define o conceito de Administração Pública em sentido orgânico no ordenamento jurídico angolano?",
+    "alternativa": {
+      "A": "O conjunto de atividades e decisões executadas pelos tribunais judiciais",
+      "B": "O conjunto de órgãos, serviços e agentes do Estado que asseguram a satisfação das necessidades coletivas",
+      "C": "O processo de criação de leis e normas pela Assembleia Nacional",
+      "D": "O conjunto de empresas privadas prestadoras de serviços comerciais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Segundo os princípios constitucionais e administrativos de Angola, o princípio da prossecução do interesse público obriga os órgãos administrativos a:",
+    "alternativa": {
+      "A": "Procurar o lucro financeiro em todas as suas operações",
+      "B": "Atuar com foco exclusivo no bem-estar social e nos objetivos coletivos da população",
+      "C": "Favorecer os funcionários de carreira mais antiga",
+      "D": "Seguir apenas as diretrizes comerciais das multinacionais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O que caracteriza a Administração Pública Indireta do Estado em Angola?",
+    "alternativa": {
+      "A": "É composta por ministérios e secretarias de Estado sem personalidade jurídica própria",
+      "B": "É constituída por entidades dotadas de personalidade jurídica e autonomia de gestão (ex: Institutos Públicos)",
+      "C": "Engloba os governos provinciais e as administrações municipais",
+      "D": "Refere-se exclusivamente aos órgãos consultivos do Presidente da República"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Como se define o 'Ato Administrativo' de acordo com a doutrina e a legislação administrativa angolana?",
+    "alternativa": {
+      "A": "A decisão tomada por um juiz no final de um julgamento criminal",
+      "B": "A manifestação unilateral de vontade de um órgão administrativo que produz efeitos jurídicos num caso concreto",
+      "C": "O debate realizado pelos deputados durante a votação do OGE",
+      "D": "O contrato de compra e venda assinado entre dois cidadãos particulares"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Qual é o princípio administrativo que proíbe a Administração Pública de discriminar cidadãos com base na raça, género, etnia ou filiação partidária?",
+    "alternativa": {
+      "A": "Princípio da Legalidade",
+      "B": "Princípio da Igualdade",
+      "C": "Princípio da Celeridade",
+      "D": "Princípio da Hierarquia"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Em Angola, as empresas públicas e as empresas de capitais públicos integram qual setor da Administração?",
+    "alternativa": {
+      "A": "Administração Direta do Estado",
+      "B": "Administração Autónoma (Autarquias)",
+      "C": "Setor Público Empresarial",
+      "D": "Administração Privada de Utilidade Geral"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O princípio da proporcionalidade impõe que as decisões da Administração Pública que limitem direitos dos cidadãos devem ser:",
+    "alternativa": {
+      "A": "Aplicadas com força militar em qualquer situação",
+      "B": "Necessárias, adequadas e proporcionais aos fins que se pretendem atingir",
+      "C": "Aprovadas previamente pelo Tribunal de Comarca",
+      "D": "Válidas apenas por um período máximo de 24 horas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Como se designa o instrumento jurídico pelo qual um órgão superior transfere temporariamente para um órgão inferior a competência para decidir certas matérias?",
+    "alternativa": {
+      "A": "Avocação",
+      "B": "Delegação de Poderes (ou de Competências)",
+      "C": "Substituição administrativa",
+      "D": "Tutela executiva"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Qual é o prazo geral fixado por lei para a Administração Pública angolana responder a um requerimento ou petição apresentada por um cidadão, salvo disposição em contrário?",
+    "alternativa": {
+      "A": "10 dias",
+      "B": "30 dias",
+      "C": "60 dias",
+      "D": "90 dias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O poder que os órgãos superiores possuem de dar ordens, instruções e diretivas aos órgãos inferiores e de revogar os seus atos chama-se:",
+    "alternativa": {
+      "A": "Poder de Tutela",
+      "B": "Poder Hierárquico",
+      "C": "Poder Regulamentar",
+      "D": "Poder Discricionário"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Qual das seguintes opções constitui uma garantia graciosa (ou administrativa) dos cidadãos perante atos ilegais da Administração Pública?",
+    "alternativa": {
+      "A": "A Reclamação e o Recurso Hierárquico",
+      "B": "A Ação Administrativa Especial no Tribunal Fiscal",
+      "C": "O Processo de Habeas Corpus",
+      "D": "A queixa formal na esquadra de polícia"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Como se chama o princípio que obriga os serviços públicos a utilizar os meios mais económicos e rápidos para atingir os resultados, evitando burocracias excessivas?",
+    "alternativa": {
+      "A": "Princípio da Imparcialidade",
+      "B": "Princípio da Eficácia e Eficiência",
+      "C": "Princípio da Publicidade",
+      "D": "Princípio da Justiça"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Os funcionários públicos e agentes administrativos em Angola estão sujeitos ao dever de sigilo profissional, o que significa que:",
+    "alternativa": {
+      "A": "Não podem falar com os seus superiores hierárquicos",
+      "B": "Devem guardar segredo sobre factos ou informações de que tenham conhecimento no exercício das funções",
+      "C": "Estão proibidos de ler documentos públicos oficiais",
+      "D": "Não podem revelar a sua identidade aos utentes dos serviços"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O fenómeno em que um órgão superior chama a si a competência de um órgão inferior para resolver um caso concreto é designado por:",
+    "alternativa": {
+      "A": "Delegação",
+      "B": "Avocação",
+      "C": "Subdelegação",
+      "D": "Devolução"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "De acordo com o princípio da boa-fé na Administração Pública, os agentes públicos devem pautar a sua conduta por regras de:",
+    "alternativa": {
+      "A": "Celeridade e força impositiva",
+      "B": "Correção, lealdade, honestidade e respeito pela confiança dos cidadãos",
+      "C": "Segredo absoluto e submissão partidária",
+      "D": "Interesse económico e contenção de despesas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O conjunto de regras que definem o recrutamento, seleção, provimento e progressão dos profissionais na Administração Pública angolana constitui a:",
+    "alternativa": {
+      "A": "Lei do Empreendedorismo",
+      "B": "Carreira da Função Pública",
+      "C": "Lei Geral do Trabalho Comercial",
+      "D": "Tabela de Subsídios Governamentais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Qual é a consequência jurídica de um ato administrativo praticado com violação grave e frontal de princípios constitucionais ou que ofenda direitos fundamentais?",
+    "alternativa": {
+      "A": "O ato é considerado perfeitamente válido",
+      "B": "O ato padece de Nulidade (é nulo)",
+      "C": "O ato torna-se obrigatório para todos os cidadãos",
+      "D": "O ato é transformado em lei ordinária automaticamente"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O controlo efetuado por um tribunal judicial sobre a legalidade dos atos praticados pelos órgãos da Administração Pública chama-se:",
+    "alternativa": {
+      "A": "Controlo Hierárquico",
+      "B": "Controlo Jurisdicional (ou Tutela Jurisdicional)",
+      "C": "Controlo Político",
+      "D": "Autotutela administrativa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O princípio da publicidade obriga a Administração Pública angolana a:",
+    "alternativa": {
+      "A": "Comercializar anúncios publicitários nos jornais",
+      "B": "Dar a conhecer aos cidadãos os atos e decisões administrativas de caráter geral, salvo segredo de Estado",
+      "C": "Manter todas as reuniões governamentais trancadas ao público",
+      "D": "Divulgar a vida privada dos utentes do serviço"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Como se classifica a situação jurídica do cidadão ou utente que beneficia diretamente da atividade e dos serviços prestados pela Administração Pública?",
+    "alternativa": {
+      "A": "Agente Administrativo",
+      "B": "Administrado (ou Utente)",
+      "C": "Magistrado de Carreira",
+      "D": "Funcionário Desconcentrado"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Em Angola, qual é a sanção máxima aplicável a um funcionário público no âmbito de um processo disciplinar por infração grave aos seus deveres?",
+    "alternativa": {
+      "A": "Multa salarial",
+      "B": "Demissão (ou Despedimento)",
+      "C": "Prisão militar preventiva",
+      "D": "Advertência verbal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "O poder conferido por lei à Administração Pública para escolher, dentro de limites legais, a solução que melhor satisfaz o interesse público num caso concreto chama-se:",
+    "alternativa": {
+      "A": "Poder Vinculado",
+      "B": "Poder Discricionário",
+      "C": "Poder Legislativo",
+      "D": "Poder Sancionatório Absoluto"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "A obrigatoriedade de fundamentação dos atos administrativos em Angola exige que a Administração:",
+    "alternativa": {
+      "A": "Apenas divulgue a decisão final sem explicações",
+      "B": "Exponha de forma clara as razões de facto e de direito que motivaram a tomada daquela decisão",
+      "C": "Consulte previamente todos os partidos com assento parlamentar",
+      "D": "Aguarde pela homologação do Tribunal Constitucional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "Os contratos administrativos celebrados pela Administração Pública angolana para a aquisição de bens ou serviços públicos são regulados por qual legislação específica?",
+    "alternativa": {
+      "A": "Código Penal",
+      "B": "Lei dos Contratos Públicos (ou da Contratação Pública)",
+      "C": "Lei Geral do Trabalho Comercial",
+      "D": "Código Civil comum apenas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Noções Gerais de Administração Pública de Angola",
+    "pergunta": "A quem os órgãos e serviços da Administração Direta do Estado angolano devem obediência hierárquica máxima, segundo a estrutura orgânica do país?",
+    "alternativa": {
+      "A": "Ao Presidente da Assembleia Nacional",
+      "B": "Ao Presidente da República, na qualidade de Titular do Poder Executivo",
+      "C": "Ao Juiz Conselheiro do Tribunal Supremo",
+      "D": "Ao Provedor de Justiça"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Quais são as três cores que compõem oficialmente a Bandeira Nacional da República de Angola?",
+    "alternativa": {
+      "A": "Vermelho, Amarelo e Azul",
+      "B": "Vermelho, Preto e Amarelo",
+      "C": "Verde, Vermelho e Amarelo",
+      "D": "Preto, Branco e Vermelho"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Na Bandeira Nacional de Angola, o que simboliza historicamente a cor vermelha?",
+    "alternativa": {
+      "A": "As riquezas minerais do solo angolano",
+      "B": "O sangue derramado pelos angolanos durante a opressão colonial e a luta de libertação",
+      "C": "A paz e a reconciliação alcançadas entre os irmãos angolanos",
+      "D": "O continente africano e as nossas origens étnicas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "O que representam os três elementos amarelos dispostos no centro da Bandeira de Angola (a secção de roda dentada, a catana e a estrela)?",
+    "alternativa": {
+      "A": "Os recursos agrícolas, a fauna e a flora nacionais",
+      "B": "Os operários, os camponeses e a solidariedade internacional/progresso",
+      "C": "O poder político, o poder militar e o poder judicial",
+      "D": "As três principais regiões geográficas do país"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual é a frase que serve como divisa ou lema inscrito na Insígnia da República de Angola (Brasão de Armas)?",
+    "alternativa": {
+      "A": "Angola, Avante e Unida",
+      "B": "República de Angola",
+      "C": "Virtude, Pátria e Justiça",
+      "D": "Unidade, Trabalho, Progresso"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Segundo a Constituição da República de Angola, quais são os três Símbolos Nacionais heráldicos e históricos do país?",
+    "alternativa": {
+      "A": "A Bandeira Nacional, a Palanca Negra e o Pensador",
+      "B": "A Bandeira Nacional, a Insígnia Nacional e o Hino Nacional",
+      "C": "O Hino Nacional, o Rio Cuanza e o Monte Moco",
+      "D": "A Constituição, o Diário da República e o Palácio Presidencial"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Quem é o autor da letra oficial do Hino Nacional de Angola, 'Angola, Avante!'?",
+    "alternativa": {
+      "A": "António Agostinho Neto",
+      "B": "Manuel Rui Monteiro",
+      "C": "Rui Mingas",
+      "D": "Viriato da Cruz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Quem compôs a música (melodia) oficial do Hino Nacional 'Angola, Avante!'?",
+    "alternativa": {
+      "A": "Teta Lando",
+      "B": "Rui Mingas",
+      "C": "Liceu Vieira Dias",
+      "D": "Waldemar Bastos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "A primeira estrofe do Hino Nacional começa com qual destes versos patrióticos?",
+    "alternativa": {
+      "A": "Ó Pátria, nunca mais esqueceremos...",
+      "B": "Ó Pátria, ecoam vozes do passado...",
+      "C": "Ó Pátria, levantemos as nossas vozes...",
+      "D": "Ó Pátria, nunca mais esqueceremos os heróis de quatro de Fevereiro..."
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual é o refrão que se repete com fervor patriótico no Hino Nacional de Angola?",
+    "alternativa": {
+      "A": "Angola, pátria livre, terra do sol...",
+      "B": "Angola, Avante! Revolução, pelo poder popular!",
+      "C": "Avante, avante, pelo progresso da nação!",
+      "D": "Unidos na luta, venceremos o inimigo!"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Como se chama o antílope raro e majestoso, endémico de Angola, que serve como um dos maiores símbolos nacionais da fauna e identidade do país?",
+    "alternativa": {
+      "A": "Leão Africano",
+      "B": "Palanca Negra Gigante",
+      "C": "Guepardo",
+      "D": "Elefante de Savana"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual destas esculturas de madeira tradicionais, de origem Chokwe, tornou-se um símbolo cultural e espiritual da sabedoria e da identidade do povo angolano?",
+    "alternativa": {
+      "A": "A Máscara Mwana Pwo",
+      "B": "O Pensador (ou Samanhonga)",
+      "C": "O Trono Real",
+      "D": "A Estátua da Rainha Njinga"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual é a árvore nacional de Angola, conhecida pelo seu tronco massivo e longevidade, que simboliza a resistência e a força do povo?",
+    "alternativa": {
+      "A": "Palmeira Dendém",
+      "B": "Imbondeiro (ou Baobá)",
+      "C": "Eucalipto",
+      "D": "Mussamba"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "O dever patriótico do cidadão de respeitar e venerar os Símbolos Nacionais está explicitamente previsto em qual documento legal?",
+    "alternativa": {
+      "A": "No Código Comercial",
+      "B": "Na Constituição da República de Angola (CRA)",
+      "C": "Na Lei Geral do Trabalho",
+      "D": "No Código de Estrada"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual é o principal valor patriótico celebrado no dia 4 de Abril em Angola, instituído após o fim definitivo do conflito militar em 2002?",
+    "alternativa": {
+      "A": "A Liberdade de Imprensa",
+      "B": "A Paz e a Reconciliação Nacional",
+      "C": "A Produção Industrial",
+      "D": "A Cultura Nacional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Por que razão a data de 17 de Setembro é celebrada como feriado nacional com forte teor patriótico em Angola?",
+    "alternativa": {
+      "A": "Marca o dia da assinatura do Acordo de Alvor",
+      "B": "É o Dia do Fundador da Nação e dos Heróis Nacionais (nascimento de Agostinho Neto)",
+      "C": "Comemora a Batalha do Cuito Cuanavale",
+      "D": "Assinala o dia em que o Kwanza foi criado"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "O ultraje, desrespeito ou rasgamento público da Bandeira Nacional em território angolano constitui:",
+    "alternativa": {
+      "A": "Uma conduta permitida sob a liberdade de expressão",
+      "B": "Um crime contra os Símbolos do Estado previsto no Código Penal",
+      "C": "Uma infração puramente administrativa punida com advertência verbal",
+      "D": "Um ato sob jurisdição exclusiva dos tribunais internacionais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual destas atitudes reflete o verdadeiro civismo e patriotismo no quotidiano das comunidades angolanas?",
+    "alternativa": {
+      "A": "Evitar o pagamento de impostos devidos ao Estado",
+      "B": "Zelar pelo bem público, preservar o património comum e respeitar o hino nas cerimónias",
+      "C": "Ignorar as leis de trânsito e o respeito pelas autoridades",
+      "D": "Priorizar interesses individuais em detrimento da estabilidade social"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Que data celebra o Dia da Expansão da Luta Armada de Libertação Nacional, homenageando os heróis que iniciaram as revoltas no norte do país em 1961?",
+    "alternativa": {
+      "A": "4 de Janeiro",
+      "B": "15 de Março",
+      "C": "25 de Maio",
+      "D": "10 de Dezembro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "O hastear da Bandeira Nacional em instituições públicas angolanas deve seguir regras rígidas. Qual destas é uma norma padrão?",
+    "alternativa": {
+      "A": "Deve ser hasteada apenas em dias de chuva intensa",
+      "B": "Deve ser hasteada de manhã (ao erguer do sol) e arreada ao pôr do sol",
+      "C": "Pode ser mantida rasgada ou suja como símbolo de antiguidade",
+      "D": "Deve ficar sempre posicionada abaixo de qualquer bandeira partidária"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Como se chama o monumento localizado na província de Luanda edificado para homenagear a memória e o legado patriótico do primeiro Presidente de Angola?",
+    "alternativa": {
+      "A": "Memorial Dr. António Agostinho Neto (Maan)",
+      "B": "Fortaleza de São Miguel",
+      "C": "Museu Nacional da Escravatura",
+      "D": "Palácio de Ferro"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual destas datas celebra o Dia do Início da Luta Armada de Libertação Nacional, considerado o marco inicial da liberdade angolana?",
+    "alternativa": {
+      "A": "1 de Janeiro",
+      "B": "4 de Fevereiro",
+      "C": "1 de Maio",
+      "D": "11 de Novembro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "No contexto da cidadania angolana, defender a pátria contra agressões externas e prestar o serviço militar obrigatório nos termos da lei constitui um:",
+    "alternativa": {
+      "A": "Ato opcional dependente de remuneração extra",
+      "B": "Dever patriótico e cívico fundamental de todos os cidadãos",
+      "C": "Direito exclusivo de membros inscritos em partidos políticos",
+      "D": "Procedimento proibido pela Carta das Nações Unidas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "A celebração do Dia da Juventude Angolana (14 de Abril) homenageia qual herói juvenil que tombou em combate demonstrando bravura e amor à pátria?",
+    "alternativa": {
+      "A": "Ngangula",
+      "B": "Hoji-ya-Henda",
+      "C": "Deolinda Rodrigues",
+      "D": "Viriato da Cruz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Qual é a data em que os angolanos celebram com maior orgulho a conquista da sua soberania e a proclamação da República de Angola?",
+    "alternativa": {
+      "A": "4 de Fevereiro",
+      "B": "11 de Novembro",
+      "C": "17 de Setembro",
+      "D": "4 de Abril"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Patriotismo Angolano",
+    "pergunta": "Que compromisso solene faz o cidadão angolano ou recruta militar perante a Pátria ao jurar bandeira?",
+    "alternativa": {
+      "A": "Prometer lealdade comercial aos países vizinhos",
+      "B": "Jurar fidelidade à pátria, cumprir as leis e defender a integridade do território mesmo com o sacrifício da própria vida",
+      "C": "Garantir a filiação vitalícia no partido governante",
+      "D": "Renunciar à nacionalidade angolana em caso de conflitos diplomáticos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual destas manifestações coreográficas e musicais tradicionais angolanas, de cariz festivo e satírico, foi inscrita na lista de Património Cultural Imaterial da Humanidade pela UNESCO?",
+    "alternativa": {
+      "A": "Kizomba",
+      "B": "Samba",
+      "C": "Sukuia",
+      "D": "Semba"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "A qual dos seguintes grupos etnolinguísticos de Angola pertence a tradicional prática artística do 'Sona' (desenhos na areia usados para transmitir provérbios e conhecimentos)?",
+    "alternativa": {
+      "A": "Ovimbundu",
+      "B": "Ambundu",
+      "C": "Chokwe (Quiocos)",
+      "D": "Bakongo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual é a língua nacional de Angola mais falada na região do Planalto Central, abrangendo províncias como o Huambo e o Bié?",
+    "alternativa": {
+      "A": "Kimbundu",
+      "B": "Umbundu",
+      "C": "Fiote",
+      "D": "Cokwe"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Como se chama o prato tradicional e emblemático da gastronomia angolana, feito à base de farinha de mandioca ou de milho cozida em água a ferver?",
+    "alternativa": {
+      "A": "Calulu",
+      "B": "Funge (ou Funji)",
+      "C": "Mufete",
+      "D": "Chikuanga"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual é o nome do instrumento musical tradicional angolano, feito de uma corda de arame fixada num arco de madeira com uma cabaça, muito associado à capoeira e à música de raiz?",
+    "alternativa": {
+      "A": "Marimba",
+      "B": "Kissanje",
+      "C": "Berimbau (ou Hungu)",
+      "D": "Batuque"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Que género musical e de dança urbana contemporânea surgiu em Luanda na década de 1980, misturando ritmos tradicionais com batidas eletrónicas, e ganhou projeção mundial?",
+    "alternativa": {
+      "A": "Semba",
+      "B": "Kuduro",
+      "C": "Kilapanga",
+      "D": "Rebita"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "O grupo etnolinguístico Bakongo, localizado maioritariamente no norte de Angola, tem como principal língua nacional:",
+    "alternativa": {
+      "A": "O Kikongo",
+      "B": "O Kimbundu",
+      "C": "O Ngangela",
+      "D": "O Cuanhama"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Como se chama o famoso prato da culinária angolana preparado com peixe (geralmente carapau seco ou fresco) ou carne, óleo de palma, quiabos e folhas de rama (mandioca ou batata-doce)?",
+    "alternativa": {
+      "A": "Mufete",
+      "B": "Calulu",
+      "C": "Moamba de Galinha",
+      "D": "Farofa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Nas tradições de várias comunidades angolanas, o termo 'Alambamento' refere-se a qual importante cerimónia sociocultural?",
+    "alternativa": {
+      "A": "Ao ritual de iniciação masculina",
+      "B": "Ao pedido de casamento tradicional (noivado)",
+      "C": "À entronização de um novo Soba",
+      "D": "À celebração das colheitas agrícolas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual instrumento idiofone de percussão, constituído por lamelas de metal fixadas sobre uma caixa ou placa de madeira, é um dos mais icónicos da música tradicional angolana?",
+    "alternativa": {
+      "A": "Marimba",
+      "B": "Kissanje",
+      "C": "Dikanza (Recoreco)",
+      "D": "Puita"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "O festival anual 'Festisunji' ou as celebrações tradicionais da cultura do leste de Angola dão grande destaque à dança executada com máscaras de palha e tecido conhecidas como:",
+    "alternativa": {
+      "A": "Mwana Pwo",
+      "B": "Samanyonga",
+      "C": "Cokwe Akishi (Muanas e Akishi)",
+      "D": "Muquixi (ou Palhaços da Tradição)"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual é a designação tradicional dada ao conselho de anciãos ou ao espaço comunitário de debate e resolução de conflitos nas aldeias de Angola?",
+    "alternativa": {
+      "A": "Senzala",
+      "B": "Jango",
+      "C": "Kimbo",
+      "D": "Quitanda"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Que nome se dá à tradicional bebida alcoólica fermentada, muito consumida no Planalto Central e sul de Angola, feita à base de milho?",
+    "alternativa": {
+      "A": "Maruvo",
+      "B": "Quimbombo (ou Capuca)",
+      "C": "Cachipembe",
+      "D": "Kissangua alcoólica (ou Quimbombo)"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "A dança tradicional da 'Rebita', caracterizada por passos elegantes com influência das antigas danças de salão europeias, é originária de qual região de Angola?",
+    "alternativa": {
+      "A": "Cabinda",
+      "B": "Luanda e Bengo (zona litoral)",
+      "C": "Moxico",
+      "D": "Cuando Cubango"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual destas línguas nacionais é predominante na província de Luanda e nas províncias vizinhas do Cuanza Norte e Malanje?",
+    "alternativa": {
+      "A": "Umbundu",
+      "B": "Kimbundu",
+      "C": "Kikongo",
+      "D": "Nyaneka"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Como se chama a tradicional refeição luandense servida habitualmente aos sábados, composta por peixe grelhado, funge de bombó, feijão de óleo de palma, farofa e batata-doce?",
+    "alternativa": {
+      "A": "Calulu de carne",
+      "B": "Mufete",
+      "C": "Moamba de ginguba",
+      "D": "Gisado de lagosta"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "A qual grupo étnico do sudoeste de Angola (província do Namibe e Huíla) pertencem as mulheres conhecidas pelos seus penteados tradicionais complexos feitos com gordura, terra vermelha (oncula) e tranças?",
+    "alternativa": {
+      "A": "Bakongo",
+      "B": "Mumuílas (do grupo Nyaneka-Nkhumbi)",
+      "C": "Chokwe",
+      "D": "Ovimbundu"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "O instrumento musical de fricção, constituído por um cilindro de madeira tapado numa das extremidades com pele, onde está fixada uma vara que é friccionada com um pano molhado, chama-se:",
+    "alternativa": {
+      "A": "Batuque",
+      "B": "Dikanza",
+      "C": "Puita",
+      "D": "Ngoma"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Como se chama a tradicional feira ou mercado informal ao ar livre, muito comum nas cidades e vilas angolanas?",
+    "alternativa": {
+      "A": "Jango",
+      "B": "Quitanda (ou Praça)",
+      "C": "Kimbo",
+      "D": "Senzala"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "O estilo musical 'Kilapanga', caracterizado por uma batida rápida e compassada com forte presença de guitarras e percussão tradicional, tem as suas raízes principais em que província?",
+    "alternativa": {
+      "A": "Malanje",
+      "B": "Luanda",
+      "C": "Cabinda",
+      "D": "Namibe"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Que nome se dá à seiva extraída da palmeira que, após um processo natural de fermentação, se transforma numa bebida tradicional muito popular em Angola?",
+    "alternativa": {
+      "A": "Kissangua",
+      "B": "Maruvo (Vinho de Palma)",
+      "C": "Capuca",
+      "D": "Cachipembe"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual destas províncias angolanas é mundialmente famosa pelas suas ricas tradições de escultura em madeira e pela preservação do património do antigo Império Lunda?",
+    "alternativa": {
+      "A": "Lunda Norte e Lunda Sul",
+      "B": "Namibe",
+      "C": "Cuanza Sul",
+      "D": "Bengo"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "A dança e estilo musical da 'Kizomba', que ganhou imensa popularidade global nas últimas décadas, nasceu em Angola a partir da evolução e fusão de quais ritmos?",
+    "alternativa": {
+      "A": "Kuduro e Rap",
+      "B": "Semba e ritmos como o Zouk / Kassav",
+      "C": "Rebita e Fado",
+      "D": "Kilapanga e Marrabenta"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Nas zonas rurais de Angola, o termo 'Kimbo' designa habitualmente:",
+    "alternativa": {
+      "A": "Uma plantação de café de grande porte",
+      "B": "A aldeia, povoação ou o conjunto de habitações familiares",
+      "C": "O traje usado pelos reis tradicionais",
+      "D": "O prato servido nos casamentos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Cultura e Tradições de Angola",
+    "pergunta": "Qual é a designação atribuída ao dikanza quando este instrumento de percussão tradicional é feito de uma cana de bambu ou madeira com ranhuras transversais, raspada com uma vareta?",
+    "alternativa": {
+      "A": "Recoreco",
+      "B": "Xiquitsi",
+      "C": "Puita",
+      "D": "Hungu"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual é a missão principal do Ministério do Interior (MININT) na República de Angola?",
+    "alternativa": {
+      "A": "Garantir a defesa militar contra agressões externas e coordenar as Forças Armadas",
+      "B": "Garantir a ordem, tranquilidade e segurança públicas, a proteção civil e a regularização migratória",
+      "C": "Coordenar a execução do Orçamento Geral do Estado e fiscalizar os bancos privados",
+      "D": "Gerir os tribunais de comarca e regular a ordem dos advogados"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Quem detém a competência de nomear e exonerar o Ministro do Interior na estrutura governamental angolana?",
+    "alternativa": {
+      "A": "O Presidente da Assembleia Nacional",
+      "B": "O Presidente da República",
+      "C": "O Conselho Superior de Magistratura Judicial",
+      "D": "O Comandante Geral da Polícia Nacional"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual dos seguintes órgãos é um Órgão Executivo Direto do Ministério do Interior?",
+    "alternativa": {
+      "A": "O Serviço de Inteligência e Segurança de Estado (SINSE)",
+      "B": "A Polícia Nacional de Angola (PNA)",
+      "C": "A Administração Geral Tributária (AGT)",
+      "D": "O Estado-Maior General das FAA"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual é o órgão do MININT responsável pela instrução preparatória dos processos-crime e apoio direto à Procuradoria-Geral da República?",
+    "alternativa": {
+      "A": "O Serviço de Investigação Criminal (SIC)",
+      "B": "O Serviço de Migração e Estrangeiros (SME)",
+      "C": "A Polícia de Intervenção Rápida (PIR)",
+      "D": "A Inspeção Geral do MININT"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "O Serviço de Migração e Estrangeiros (SME), enquanto órgão do MININT, tem como atribuição fundamental:",
+    "alternativa": {
+      "A": "Extinguir incêndios e socorrer vítimas de calamidades naturais",
+      "B": "Controlar a entrada, permanência, saída e regularização de estrangeiros em território nacional",
+      "C": "Gerir os estabelecimentos prisionais e a reintegração social de reclusos",
+      "D": "Patrulhar o trânsito nas estradas nacionais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual é o órgão integrado no MININT encarregado de executar as penas privativas de liberdade e promover a reabilitação dos cidadãos condenados?",
+    "alternativa": {
+      "A": "O Serviço de Investigação Criminal (SIC)",
+      "B": "O Serviço Penitenciário (SP)",
+      "C": "O Serviço de Proteção Civil e Bombeiros (SPCB)",
+      "D": "A Direção de Segurança Pública"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "O Serviço de Proteção Civil e Bombeiros (SPCB) atua sob a tutela do MININT com o objetivo de:",
+    "alternativa": {
+      "A": "Investigar crimes económicos e financeiros de alta complexidade",
+      "B": "Prevenir e combater incêndios, realizar salvamentos e gerir situações de catástrofe",
+      "C": "Emitir passaportes e vistos de trabalho para cidadãos nacionais",
+      "D": "Garantir a guarda e vigilância das fronteiras marítimas exclusivamente"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Ao nível da organização periférica ou local, quem representa o Ministério do Interior em cada uma das dezoito províncias de Angola?",
+    "alternativa": {
+      "A": "O Comandante da Esquadra Policial mais antiga",
+      "B": "O Delegado Provincial do Ministério do Interior",
+      "C": "O Governador Provincial diretamente",
+      "D": "O Administrador Municipal Adjunto"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Na orgânica interna do MININT, o órgão colegial presidido pelo Ministro, encarregado de analisar as grandes políticas de segurança interna, chama-se:",
+    "alternativa": {
+      "A": "Assembleia de Especialidade",
+      "B": "Conselho Consultivo do Ministério do Interior",
+      "C": "Comissão Permanente de Segurança Nacional",
+      "D": "Conselho Superior da Magistratura Policial"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual é a natureza jurídica dos funcionários integrados nas forças de segurança do MININT (como a Polícia Nacional)?",
+    "alternativa": {
+      "A": "Funcionários públicos civis comuns regulados unicamente pela LGT",
+      "B": "Agentes militarizados sujeitos a estatutos orgânicos e disciplinares próprios",
+      "C": "Trabalhadores em regime de prestação de serviços por contrato temporário",
+      "D": "Magistrados judiciais de primeira instância"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual destas direções do MININT funciona como órgão de apoio instrumental encarregado de auditar as contas e fiscalizar a legalidade dos atos dos seus agentes?",
+    "alternativa": {
+      "A": "Direção Nacional de Recursos Humanos",
+      "B": "Inspeção Geral do Ministério do Interior",
+      "C": "Gabinete de Estudos e Planeamento",
+      "D": "Direção Nacional de Logística"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Quem exerce a função de direção imediata, comando e coordenação operacional de todas as forças que compõem a Polícia Nacional de Angola?",
+    "alternativa": {
+      "A": "O Diretor do Serviço de Investigação Criminal",
+      "B": "O Comandante Geral da Polícia Nacional",
+      "C": "O Secretário de Estado para o Interior",
+      "D": "O Chefe do Estado-Maior das FAA"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "O pessoal do quadro do Ministério do Interior está sujeito ao princípio da subordinação hierárquica, o que implica:",
+    "alternativa": {
+      "A": "A liberdade de escolher quais leis e ordens cumprir no dia a dia",
+      "B": "A obrigação de cumprir prontamente as ordens e diretivas dos superiores legítimos, dadas em matéria de serviço",
+      "C": "A necessidade de validação judicial antes de executar qualquer patrulhamento",
+      "D": "A subordinação exclusiva aos comités de bairro locais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual das seguintes forças especiais da Polícia Nacional está diretamente vocacionada para a reposição da ordem pública em situações de grave alteração ou motins?",
+    "alternativa": {
+      "A": "Polícia de Trânsito",
+      "B": "Polícia de Intervenção Rápida (PIR)",
+      "C": "Polícia Fiscal Aduaneira",
+      "D": "Polícia Florestal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Os atos administrativos de caráter normativo ou diretivas gerais emitidos pelo Ministro do Interior revestem a forma jurídica de:",
+    "alternativa": {
+      "A": "Decretos Presidenciais",
+      "B": "Decretos Executivos ou Despachos",
+      "C": "Leis Orgânicas Municipais",
+      "D": "Sentenças Homologatórias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Em Angola, qual das seguintes áreas NÃO está sob a esfera de competência e superintendência do Ministério do Interior?",
+    "alternativa": {
+      "A": "O sistema prisional e carcerário nacional",
+      "B": "A defesa das fronteiras militares nacionais contra exércitos estrangeiros",
+      "C": "A fiscalização rodoviária e segurança do trânsito",
+      "D": "A prevenção de riscos e incêndios urbanos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Na hierarquia de patentes da Polícia Nacional (órgão do MININT), qual das seguintes opções representa o topo da carreira de Oficiais Comissários?",
+    "alternativa": {
+      "A": "Subcomissário",
+      "B": "Comissário Geral",
+      "C": "Superintendente-Chefe",
+      "D": "Inspector"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "O regime disciplinar aplicável aos funcionários militarizados do MININT prevê sanções para infrações. Qual das seguintes é uma sanção gravosa?",
+    "alternativa": {
+      "A": "Advertência verbal em formatura",
+      "B": "Demissão ou Baixa de Posto",
+      "C": "Transferência residencial obrigatória",
+      "D": "Perda permanente da nacionalidade"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual o nome da instituição de ensino superior sob tutela do MININT, responsável pela formação académica e técnico-policial de oficiais da Polícia Nacional?",
+    "alternativa": {
+      "A": "Instituto Superior Politécnico Independente",
+      "B": "Instituto Superior de Ciências Policiais e Criminais (ISCPC)",
+      "C": "Academia Militar do Exército",
+      "D": "Faculdade de Direito da Universidade Agostinho Neto"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "O uso de armas de fogo pelos agentes da Polícia Nacional e do SIC, nos termos dos regulamentos do MININT, é balizado pelo princípio da:",
+    "alternativa": {
+      "A": "Liberdade absoluta de ação discricionária",
+      "B": "Necessidade, proporcionalidade e último recurso em caso de perigo iminente",
+      "C": "Presunção de culpa do cidadão abordado",
+      "D": "Obrigatoriedade de disparo em qualquer abordagem de trânsito"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Ao nível municipal, a coordenação das ações policiais de ordem pública é assegurada por qual estrutura local?",
+    "alternativa": {
+      "A": "Pelo Governo Provincial diretamente",
+      "B": "Pelo Comando Municipal da Polícia Nacional",
+      "C": "Pela Direção Municipal do MAT",
+      "D": "Pelo Comité de Moradores do Bairro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Qual destas forças policiais do MININT atua de forma especializada no controlo de mercadorias, prevenção do contrabando e controlo fiscal nas fronteiras e portos?",
+    "alternativa": {
+      "A": "Polícia de Intervenção Rápida",
+      "B": "Polícia Fiscal Aduaneira",
+      "C": "Polícia de Proteção de Objetivos Estratégicos",
+      "D": "Serviço de Investigação Criminal"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "Os orçamentos e meios logísticos destinados ao reequipamento das esquadras e serviços periféricos do MININT são integrados em qual documento?",
+    "alternativa": {
+      "A": "No Orçamento Geral do Estado (OGE), na dotação específica do MININT",
+      "B": "No fundo privado de contribuições municipais",
+      "C": "No balanço anual da Organização das Nações Unidas",
+      "D": "Nas taxas cobradas diretamente pelo SME em moeda estrangeira"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "O Gabinete de Intercâmbio e Cooperação Internacional do MININT tem como função principal:",
+    "alternativa": {
+      "A": "Prender criminosos em flagrante delito nas ruas de Luanda",
+      "B": "Articular as relações, tratados e acordos de segurança com ministérios homólogos de outros países e Interpol",
+      "C": "Formar os novos recrutas nas escolas de bombeiros",
+      "D": "Gerir os arquivos digitais do Serviço Penitenciário"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Organização e Funcionamento do MININT",
+    "pergunta": "O respeito pelos Direitos Humanos e pelas garantias fundamentais dos cidadãos durante a atuação das forças do MININT é:",
+    "alternativa": {
+      "A": "Um procedimento facultativo em estado de calamidade",
+      "B": "Uma obrigação constitucional e um princípio orientador de toda a atividade do Ministério",
+      "C": "Válido apenas para cidadãos de nacionalidade estrangeira",
+      "D": "Decidido caso a caso pelo Comandante da Esquadra"
+    },
+    "resposta_correta": "B"
+  }
+]

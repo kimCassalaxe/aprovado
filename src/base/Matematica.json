@@ -1,0 +1,552 @@
+[
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor da expressão aritmética: 20 + 5 × (12 - 4) ÷ 2?",
+    "alternativa": {
+      "A": "30",
+      "B": "40",
+      "C": "50",
+      "D": "100"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se uma camisa custa 2.500 Kwanzas e sofre um desconto de 15%, qual será o seu preço final?",
+    "alternativa": {
+      "A": "2.125 Kwanzas",
+      "B": "2.225 Kwanzas",
+      "C": "2.350 Kwanzas",
+      "D": "2.400 Kwanzas"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é a raiz quadrada do número 144?",
+    "alternativa": {
+      "A": "11",
+      "B": "12",
+      "C": "14",
+      "D": "16"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Resolva a equação de primeiro grau: 3x - 7 = 14. Qual é o valor de x?",
+    "alternativa": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "21"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Quantos graus mede um ângulo reto?",
+    "alternativa": {
+      "A": "45 graus",
+      "B": "90 graus",
+      "C": "180 graus",
+      "D": "360 graus"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se três pedreiros constroem um muro em 6 dias, quantos dias levariam 6 pedreiros para construir o mesmo muro, trabalhando no mesmo ritmo?",
+    "alternativa": {
+      "A": "2 dias",
+      "B": "3 dias",
+      "C": "4 dias",
+      "D": "12 dias"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o volume de um cubo cujas arestas medem 4 cm cada?",
+    "alternativa": {
+      "A": "12 cm³",
+      "B": "16 cm³",
+      "C": "64 cm³",
+      "D": "96 cm³"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Numa caixa há 5 bolas vermelhas, 3 bolas azuis e 2 bolas verdes. Qual é a probabilidade de retirar, ao acaso, uma bola azul?",
+    "alternativa": {
+      "A": "20%",
+      "B": "30%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor de 2 elevado à quinta potência (2⁵)?",
+    "alternativa": {
+      "A": "10",
+      "B": "25",
+      "C": "32",
+      "D": "64"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Um triângulo que possui todos os três lados com medidas iguais é chamado de:",
+    "alternativa": {
+      "A": "Isósceles",
+      "B": "Escaleno",
+      "C": "Equilátero",
+      "D": "Retângulo"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o menor número primo positivo?",
+    "alternativa": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se a média aritmética de quatro números é 15, qual é a soma total desses quatro números?",
+    "alternativa": {
+      "A": "30",
+      "B": "45",
+      "C": "60",
+      "D": "75"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "A fração 3/5 é equivalente a qual valor percentual?",
+    "alternativa": {
+      "A": "30%",
+      "B": "35%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o perímetro de um retângulo que tem 8 metros de comprimento e 5 metros de largura?",
+    "alternativa": {
+      "A": "13 metros",
+      "B": "26 metros",
+      "C": "40 metros",
+      "D": "80 metros"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o resultado da operação: (-15) - (-8)?",
+    "alternativa": {
+      "A": "-23",
+      "B": "-7",
+      "C": "7",
+      "D": "23"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Numa progressão aritmética (PA) onde o primeiro termo é 4 e a razão é 3, qual é o quinto termo?",
+    "alternativa": {
+      "A": "13",
+      "B": "16",
+      "C": "19",
+      "D": "22"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Quantos segundos existem em duas horas e meia?",
+    "alternativa": {
+      "A": "150 segundos",
+      "B": "3.600 segundos",
+      "C": "7.200 segundos",
+      "D": "9.000 segundos"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se logaritmo de x na base 10 é igual a 3 (log₁₀ x = 3), qual é o valor de x?",
+    "alternativa": {
+      "A": "30",
+      "B": "100",
+      "C": "300",
+      "D": "1.000"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o Mínimo Múltiplo Comum (MMC) entre os números 6 e 8?",
+    "alternativa": {
+      "A": "2",
+      "B": "14",
+      "C": "24",
+      "D": "48"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Quantas diagonais possui um quadrado?",
+    "alternativa": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "8"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Um veículo viaja a uma velocidade constante de 80 km/h. Que distância ele percorrerá em 4 horas e 30 minutos?",
+    "alternativa": {
+      "A": "320 km",
+      "B": "340 km",
+      "C": "360 km",
+      "D": "400 km"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se f(x) = 2x² - 3x + 1, qual é o valor de f(2)?",
+    "alternativa": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é a soma dos ângulos internos de qualquer triângulo?",
+    "alternativa": {
+      "A": "90 graus",
+      "B": "180 graus",
+      "C": "270 graus",
+      "D": "360 graus"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor numérico de 70% de 500?",
+    "alternativa": {
+      "A": "35",
+      "B": "150",
+      "C": "350",
+      "D": "430"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Em matemática, o conjunto dos números inteiros é representado por qual letra maiúscula?",
+    "alternativa": {
+      "A": "N",
+      "B": "Z",
+      "C": "Q",
+      "D": "R"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor do Máximo Divisor Comum (MDC) entre os números 18 e 24?",
+    "alternativa": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "12"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Resolva a equação de segundo grau x² - 5x + 6 = 0. Quais são as suas raízes?",
+    "alternativa": {
+      "A": "x = 1 e x = 6",
+      "B": "x = 2 e x = 3",
+      "C": "x = -2 e x = -3",
+      "D": "x = 0 e x = 5"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se uma herança de 1.200.000 Kwanzas for dividida de forma inversamente proporcional a 2 e 4, quanto receberá a parte correspondente ao número 2?",
+    "alternativa": {
+      "A": "300.000 Kwanzas",
+      "B": "400.000 Kwanzas",
+      "C": "600.000 Kwanzas",
+      "D": "800.000 Kwanzas"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é a área de um triângulo que tem 12 cm de base e 8 cm de altura?",
+    "alternativa": {
+      "A": "20 cm²",
+      "B": "48 cm²",
+      "C": "96 cm²",
+      "D": "100 cm²"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Considere a sequência lógica: 2, 6, 12, 20, 30... Qual é o próximo número?",
+    "alternativa": {
+      "A": "36",
+      "B": "40",
+      "C": "42",
+      "D": "50"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se o preço de um produto aumentou de 400 Kwanzas para 500 Kwanzas, qual foi a percentagem de aumento?",
+    "alternativa": {
+      "A": "10%",
+      "B": "20%",
+      "C": "25%",
+      "D": "50%"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Quantos lados possui um polígono regular cujo somatório dos ângulos internos é igual a 720 graus?",
+    "alternativa": {
+      "A": "5 (Pentágono)",
+      "B": "6 (Hexágono)",
+      "C": "7 (Heptágono)",
+      "D": "8 (Octógono)"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor de x no sistema de equações linear simples: x + y = 10 e x - y = 4?",
+    "alternativa": {
+      "A": "x = 3",
+      "B": "x = 5",
+      "C": "x = 7",
+      "D": "x = 14"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Uma pessoa aplica 50.000 Kwanzas a juros simples com uma taxa de 2% ao mês. Qual será o valor total de juros acumulados após 6 meses?",
+    "alternativa": {
+      "A": "1.000 Kwanzas",
+      "B": "5.000 Kwanzas",
+      "C": "6.000 Kwanzas",
+      "D": "56.000 Kwanzas"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor numérico da expressão trigonométrica fundamental: sen²(30º) + cos²(30º)?",
+    "alternativa": {
+      "A": "0",
+      "B": "0.5",
+      "C": "1",
+      "D": "2"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se lançarmos dois dados honestos de seis lados simultaneamente, quantas combinações de resultados possíveis existem no total?",
+    "alternativa": {
+      "A": "12",
+      "B": "18",
+      "C": "36",
+      "D": "64"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor simplificado da fração irracional 10/√2 após a racionalização do denominador?",
+    "alternativa": {
+      "A": "5",
+      "B": "5√2",
+      "C": "10√2",
+      "D": "20"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "O oposto ou simétrico do número inverso de -4 é igual a:",
+    "alternativa": {
+      "A": "-1/4",
+      "B": "1/4",
+      "C": "-4",
+      "D": "4"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Em termos geométricos, se o raio de uma circunferência for duplicado, o que acontece com a sua área total?",
+    "alternativa": {
+      "A": "Permanece igual",
+      "B": "Duplica",
+      "C": "Triplica",
+      "D": "Quadruplica"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é o valor exato da expressão com potências: (3⁴ × 3²) ÷ 3⁵?",
+    "alternativa": {
+      "A": "1",
+      "B": "3",
+      "C": "9",
+      "D": "27"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Uma caixa contém parafusos bons e parafusos defeituosos na razão de 7 para 2. Se existem 14 parafusos defeituosos, qual é o total de parafusos bons na caixa?",
+    "alternativa": {
+      "A": "28 parafusos",
+      "B": "35 parafusos",
+      "C": "49 parafusos",
+      "D": "63 parafusos"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é a moda do seguinte conjunto de dados numéricos: [4, 7, 7, 9, 10, 10, 10, 12, 15]?",
+    "alternativa": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "15"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Quantos subconjuntos possíveis possui um conjunto principal que contém exatamente 4 elementos distintos?",
+    "alternativa": {
+      "A": "4",
+      "B": "8",
+      "C": "16",
+      "D": "32"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se log₂ (x) = 5, qual é o valor numérico correto da variável x?",
+    "alternativa": {
+      "A": "10",
+      "B": "25",
+      "C": "32",
+      "D": "64"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Determine a mediana da seguinte série de valores ordenados de forma crescente: 3, 5, 7, 8, 11, 13.",
+    "alternativa": {
+      "A": "7",
+      "B": "7.5",
+      "C": "8",
+      "D": "9.5"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Num mapa conceitual com escala de 1:50.000, uma distância de 4 cm no papel corresponde a que distância real no terreno?",
+    "alternativa": {
+      "A": "200 metros",
+      "B": "2 quilómetros",
+      "C": "20 quilómetros",
+      "D": "200 quilómetros"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "O Teorema de Pitágoras aplica-se única e exclusivamente a que tipo de figuras geométricas?",
+    "alternativa": {
+      "A": "Triângulos equiláteros",
+      "B": "Triângulos retângulos",
+      "C": "Qualquer polígono regular de 3 lados",
+      "D": "Retângulos e quadrados apenas"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Se f(x) = 5x - 3, qual é a função inversa f⁻¹(x)?",
+    "alternativa": {
+      "A": "f⁻¹(x) = (x + 3) / 5",
+      "B": "f⁻¹(x) = (x - 3) * 5",
+      "C": "f⁻¹(x) = 5x + 3",
+      "D": "f⁻¹(x) = 3x - 5"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Qual é a soma dos primeiros 10 números inteiros positivos (de 1 a 10)?",
+    "alternativa": {
+      "A": "45",
+      "B": "50",
+      "C": "55",
+      "D": "60"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "Matemática",
+    "pergunta": "Quantas faces e quantas arestas possui um prisma de base triangular comum?",
+    "alternativa": {
+      "A": "3 faces e 6 arestas",
+      "B": "4 faces e 8 arestas",
+      "C": "5 faces e 9 arestas",
+      "D": "6 faces e 12 arestas"
+    },
+    "resposta_correta": "C"
+  }
+]

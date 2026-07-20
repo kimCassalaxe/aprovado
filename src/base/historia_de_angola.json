@@ -1,0 +1,552 @@
+[
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi o navegador português que chegou à foz do Rio Zaire em 1482, iniciando os primeiros contactos com o Reino do Congo?",
+    "alternativa": {
+      "A": "Vasco da Gama",
+      "B": "Diogo Cão",
+      "C": "Bartolomeu Dias",
+      "D": "Paulo Dias de Novais"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem foi o fundador da cidade de São Paulo de Loanda (atual Luanda) no ano de 1576?",
+    "alternativa": {
+      "A": "Diogo Cão",
+      "B": "Paulo Dias de Novais",
+      "C": "Salvador Correia de Sá",
+      "D": "Pedro Álvares Cabral"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Como se chamava o título atribuído ao soberano ou rei do Reino do Ndongo?",
+    "alternativa": {
+      "A": "Mani",
+      "B": "Ngola",
+      "C": "Soba",
+      "D": "Muene"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual célebre rainha do Ndongo e de Matamba liderou uma forte resistência militar e diplomática contra a ocupação colonial portuguesa no século XVII?",
+    "alternativa": {
+      "A": "Rainha Njinga Mbandi",
+      "B": "Rainha Kimpa Vita",
+      "C": "Rainha Nawej",
+      "D": "Rainha Lueji"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Que potência europeia ocupou a cidade de Luanda entre os anos de 1641 e 1648, retirando temporariamente o controlo aos portugueses?",
+    "alternativa": {
+      "A": "França",
+      "B": "Inglaterra",
+      "C": "Holanda (Países Baixos)",
+      "D": "Espanha"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Como ficou conhecida a conferência internacional (1884-1885) que definiu a partilha do continente africano e obrigou Portugal a delimitar as fronteiras de Angola?",
+    "alternativa": {
+      "A": "Conferência de Bruxelas",
+      "B": "Conferência de Berlim",
+      "C": "Tratado de Tordesilhas",
+      "D": "Conferência de Versalhes"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi o importante tratado assinado em fevereiro de 1885 que estabeleceu o protetorado português sobre a região de Cabinda?",
+    "alternativa": {
+      "A": "Tratado de Simulambuco",
+      "B": "Tratado de Alvor",
+      "C": "Tratado de Bicesse",
+      "D": "Tratado de Windsor"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem liderou a famosa Revolta do Bailundo (1902-1903) no Planalto Central de Angola contra a opressão colonial e o imposto de cubata?",
+    "alternativa": {
+      "A": "Rei Mandume ya Ndemufayo",
+      "B": "Rei Mutu-ya-Kevela",
+      "C": "Rei Ekuikui II",
+      "D": "Ngangula"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi o último grande soberano do povo Cuanhama (Ovambo) que resistiu heroicamente às forças coloniais no sul de Angola até à sua morte em 1917?",
+    "alternativa": {
+      "A": "Mandume ya Ndemufayo",
+      "B": "Mutu-ya-Kevela",
+      "C": "Nginga Mbandi",
+      "D": "Ekuikui II"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "O Massacre de Baixa de Cassanje, considerado um dos marcos do despertar da luta de libertação nacional, ocorreu em que ano?",
+    "alternativa": {
+      "A": "1953",
+      "B": "1961",
+      "C": "1974",
+      "D": "1975"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual a data histórica que assinala o início da Luta Armada de Libertação Nacional em Angola, com o ataque às prisões coloniais em Luanda?",
+    "alternativa": {
+      "A": "4 de Janeiro de 1961",
+      "B": "4 de Fevereiro de 1961",
+      "C": "15 de Março de 1961",
+      "D": "25 de Abril de 1974"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem foi o líder fundador do partido UNITA (União Nacional para a Independência Total de Angola) em 1966?",
+    "alternativa": {
+      "A": "Holden Roberto",
+      "B": "Jonas Savimbi",
+      "C": "Agostinho Neto",
+      "D": "Viriato da Cruz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem foi o fundador histórico e principal líder da FNLA (Frente Nacional de Libertação de Angola)?",
+    "alternativa": {
+      "A": "Holden Roberto",
+      "B": "Jonas Savimbi",
+      "C": "Lopo do Nascimento",
+      "D": "Agostinho Neto"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Como se chamou o acordo assinado em janeiro de 1975, em Portugal, entre o governo português e os três movimentos de libertação (MPLA, FNLA e UNITA) para definir o processo de independência?",
+    "alternativa": {
+      "A": "Acordos de Bicesse",
+      "B": "Acordo de Alvor",
+      "C": "Protocolo de Lusaka",
+      "D": "Memorando do Luena"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "A que horas e em que dia o Dr. António Agostinho Neto proclamou formalmente a Independência Nacional perante o povo angolano?",
+    "alternativa": {
+      "A": "À meia-noite do dia 11 de Novembro de 1975",
+      "B": "Às 12 horas do dia 11 de Novembro de 1975",
+      "C": "À meia-noite do dia 4 de Fevereiro de 1975",
+      "D": "Às 08 horas do dia 11 de Novembro de 1975"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que província angolana nasceu o primeiro Presidente da República, António Agostinho Neto?",
+    "alternativa": {
+      "A": "Malanje (Kalandula)",
+      "B": "Bengo (Ícolo e Bengo)",
+      "C": "Luanda (Maianga)",
+      "D": "Cuanza Norte (Ndalatando)"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi a célebre batalha travada em novembro de 1975, nos arredores de Luanda, que impediu o avanço das forças da FNLA e de mercenários estrangeiros sobre a capital na véspera da independência?",
+    "alternativa": {
+      "A": "Batalha do Cuito Cuanavale",
+      "B": "Batalha de Kifangondo",
+      "C": "Batalha do Ebo",
+      "D": "Batalha de Cangamba"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi o ano do falecimento do Presidente António Agostinho Neto, que levou à subida de José Eduardo dos Santos à presidência?",
+    "alternativa": {
+      "A": "1977",
+      "B": "1979",
+      "C": "1985",
+      "D": "1992"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Como ficou conhecida a maior batalha militar da história da África subsariana moderna, travada na província do Cuando Cubango entre 1987 e 1988?",
+    "alternativa": {
+      "A": "Batalha de Cangamba",
+      "B": "Batalha do Cuito Cuanavale",
+      "C": "Batalha de Kifangondo",
+      "D": "Batalha do Ntó"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em maio de 1991, foram assinados os acordos que previam o fim provisório da guerra civil e a realização das primeiras eleições multipartidárias em Angola. Qual é o nome destes acordos?",
+    "alternativa": {
+      "A": "Acordos de Bicesse",
+      "B": "Protocolo de Lusaka",
+      "C": "Acordo de Alvor",
+      "D": "Memorando do Luena"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que ano realizaram-se as primeiras Eleições Gerais multipartidárias da história da República de Angola?",
+    "alternativa": {
+      "A": "1975",
+      "B": "1992",
+      "C": "2002",
+      "D": "2008"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual é a data em que se celebra o Dia da Paz e da Reconciliação Nacional, instituído após a assinatura do Memorando de Entendimento Complementar ao Protocolo de Lusaka no Luena em 2002?",
+    "alternativa": {
+      "A": "4 de Fevereiro",
+      "B": "4 de Abril",
+      "C": "17 de Setembro",
+      "D": "25 de Dezembro"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem assumiu a liderança da UNITA após a morte do Dr. Jonas Savimbi no ano de 2002?",
+    "alternativa": {
+      "A": "Adalberto Costa Júnior",
+      "B": "Isaías Samakuva",
+      "C": "Abel Chivukuvuku",
+      "D": "Lukamba Gato"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi o ano em que o Presidente João Lourenço foi eleito pela primeira vez como Chefe de Estado da República de Angola?",
+    "alternativa": {
+      "A": "2012",
+      "B": "2017",
+      "C": "2021",
+      "D": "2022"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "O herói nacional angolano, cuja data de nascimento (17 de Setembro) é celebrada como o Dia do Fundador da Nação e dos Heróis Nacionais, é:",
+    "alternativa": {
+      "A": "Holden Roberto",
+      "B": "António Agostinho Neto",
+      "C": "Rei Mandume",
+      "D": "José Eduardo dos Santos"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Como se chamava a capital oficial do antigo e poderoso Império Lunda, localizado no leste de Angola?",
+    "alternativa": {
+      "A": "Mbanza Congo",
+      "B": "Mussumba",
+      "C": "Wambu",
+      "D": "Kabasa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem foi a figura histórica e profetisa do Reino do Congo que, no início do século XVIII, liderou o movimento Antonianista para unificar o reino destruído pela guerra?",
+    "alternativa": {
+      "A": "Rainha Njinga",
+      "B": "Kimpa Vita (Dona Beatriz)",
+      "C": "Rainha Lueji",
+      "D": "Princess Kasanje"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual destas importantes figuras intelectuais e nacionalistas angolanas escreveu o célebre livro de contos 'Luuanda' enquanto estava preso no Campo de Tarrafal?",
+    "alternativa": {
+      "A": "Pepetela",
+      "B": "José Luandino Vieira",
+      "C": "Manuel Rui",
+      "D": "Viriato da Cruz"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Que nome se dava ao estatuto colonial discriminatório que dividia a população de Angola em 'indígenas' e 'cidadãos/assimilados' até ser revogado em 1961?",
+    "alternativa": {
+      "A": "Lei da Segregação",
+      "B": "Estatuto do Indigenato",
+      "C": "Código do Trabalho Forçado",
+      "D": "Pacto Colonial"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que província angolana ocorreu a histórica Revolta da Baixa de Cassanje em janeiro de 1961, liderada por trabalhadores dos campos de algodão?",
+    "alternativa": {
+      "A": "Cuanza Norte",
+      "B": "Malanje",
+      "C": "Uíge",
+      "D": "Lunda Norte"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual destas organizações políticas foi a primeira a ser estruturada formalmente na década de 1950 para lutar pela independência nacional?",
+    "alternativa": {
+      "A": "UNITA",
+      "B": "MPLA",
+      "C": "FNLA",
+      "D": "FLEC"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem foi o primeiro Secretário-Geral do MPLA e autor do famoso poema 'Namoro', sendo considerado um dos principais mentores intelectuais do nacionalismo angolano?",
+    "alternativa": {
+      "A": "Agostinho Neto",
+      "B": "Viriato da Cruz",
+      "C": "Mário Pinto de Andrade",
+      "D": "Ilídio Machado"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que país vizinho de Angola a FNLA e o Governo Revolucionário de Angola no Exílio (GRAE) estabeleceram a sua principal base de apoio político e militar na década de 1960?",
+    "alternativa": {
+      "A": "Zâmbia",
+      "B": "República do Congo (Brazzaville)",
+      "C": "República Democrática do Congo (antigo Zaire)",
+      "D": "Namíbia"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual destas frentes de combate foi aberta pelo MPLA em 1966 a partir do território da Zâmbia, expandindo a luta armada para o leste de Angola?",
+    "alternativa": {
+      "A": "I Região Militar",
+      "B": "II Região Militar (Cabinda)",
+      "C": "III Região Militar",
+      "D": "IV Região Militar"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Que acontecimento político militar ocorrido em Portugal, a 25 de Abril de 1974, acelerou decisivamente o processo de descolonização e a independência de Angola?",
+    "alternativa": {
+      "A": "A queda do Muro de Berlim",
+      "B": "A Revolução dos Cravos",
+      "C": "A assinatura do Tratado de Roma",
+      "D": "A Crise do Petróleo"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem foi o último Alto-Comissário português em Angola, responsável por entregar o poder ao povo angolano a 10 de Novembro de 1975?",
+    "alternativa": {
+      "A": "Silva Cardoso",
+      "B": "Leonel Cardoso",
+      "C": "Rosa Coutinho",
+      "D": "Spínola"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Que país enviou dezenas de milhares de soldados para Angola a partir de 1975 na 'Operação Carlota' para apoiar o governo do MPLA na guerra civil?",
+    "alternativa": {
+      "A": "União Soviética",
+      "B": "Cuba",
+      "C": "China",
+      "D": "Coreia do Norte"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que cidade da província do Huambo a UNITA e a FNLA proclamaram a criação de um governo rival e a 'República Democrática de Angola' em novembro de 1975?",
+    "alternativa": {
+      "A": "Benguela",
+      "B": "Huambo (Nova Lisboa)",
+      "C": "Cuito",
+      "D": "Lubango"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Como ficou historicamente conhecido o violento conflito interno que ocorreu a 27 de Maio de 1977 em Luanda, marcando profundamente a história política do país?",
+    "alternativa": {
+      "A": "A Intentona de Cabinda",
+      "B": "O Fraccionismo (ou Fracionismo)",
+      "C": "A Revolta Ativa",
+      "D": "A Revolta do Leste"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi a designação oficial adotada pelo Estado angolano desde a independência em 1975 até à revisão constitucional de 1992?",
+    "alternativa": {
+      "A": "República de Angola",
+      "B": "República Popular de Angola",
+      "C": "Estado de Angola",
+      "D": "União Angolana"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que província angolana localizava-se a histórica base militar e quartel-general da UNITA conhecida como 'Jamba'?",
+    "alternativa": {
+      "A": "Moxico",
+      "B": "Cuando Cubango",
+      "C": "Cunene",
+      "D": "Huíla"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Que acordo de paz assinado em novembro de 1994 procurou reestabelecer o cessar-fogo e prever a integração dos militares da UNITA nas Forças Armadas Angolanas?",
+    "alternativa": {
+      "A": "Acordos de Bicesse",
+      "B": "Protocolo de Lusaka",
+      "C": "Acordo de Alvor",
+      "D": "Memorando do Luena"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que localidade da província do Moxico ocorreu o combate que resultou na morte do líder histórico da UNITA, Dr. Jonas Savimbi, em fevereiro de 2002?",
+    "alternativa": {
+      "A": "Luena",
+      "B": "Lucusse",
+      "C": "Cazombo",
+      "D": "Camacupa"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual é o nome do Memorando de Entendimento assinado em 2006 que trouxe a paz definitiva e pôs fim ao conflito separatista na província de Cabinda?",
+    "alternativa": {
+      "A": "Memorando do Luena",
+      "B": "Memorando de Entendimento de Namibe",
+      "C": "Memorando de Entendimento para a Paz em Cabinda",
+      "D": "Tratado de Simulambuco"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Em que ano a Assembleia Nacional de Angola aprovou a primeira grande revisão parcial à Constituição da República de 2010?",
+    "alternativa": {
+      "A": "2012",
+      "B": "2018",
+      "C": "2021",
+      "D": "2024"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem foi a célebre heroína nacional e enfermeira que se destacou na guerrilha e cujo nome batiza uma das principais avenidas e maternidades da cidade de Luanda?",
+    "alternativa": {
+      "A": "Deolinda Rodrigues",
+      "B": "Engrácia dos Santos",
+      "C": "Irene Cohen",
+      "D": "Teresa Afonso"
+    },
+    "resposta_correta": "A"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "O monumento histórico 'Mbanza Congo', antiga capital do Reino do Congo, recebeu o título de Património Mundial da Humanidade pela UNESCO em que ano?",
+    "alternativa": {
+      "A": "2005",
+      "B": "2010",
+      "C": "2015",
+      "D": "2017"
+    },
+    "resposta_correta": "D"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Quem assumiu o cargo de Vice-Presidente da República de Angola após as eleições gerais de agosto de 2022?",
+    "alternativa": {
+      "A": "Bornito de Sousa",
+      "B": "Esperança da Costa",
+      "C": "Carolina Cerqueira",
+      "D": "Adão de Almeida"
+    },
+    "resposta_correta": "B"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Como se chama a atual moeda nacional de Angola, introduzida originalmente em 1977 em substituição ao antigo Escudo colonial?",
+    "alternativa": {
+      "A": "Novo Kwanza",
+      "B": "Kwanza Reajustado",
+      "C": "Kwanza",
+      "D": "Lwei"
+    },
+    "resposta_correta": "C"
+  },
+  {
+    "categoria": "História de Angola",
+    "pergunta": "Qual foi o primeiro partido político angolano de oposição a conquistar a liderança de uma bancada parlamentar sem ser o MPLA ou a UNITA nas primeiras legislaturas multipartidárias?",
+    "alternativa": {
+      "A": "CASA-CE",
+      "B": "PRS (Partido de Renovação Social)",
+      "C": "FNLA",
+      "D": "PHA (Partido Humanista de Angola)"
+    },
+    "resposta_correta": "C"
+  }
+]
