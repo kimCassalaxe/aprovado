@@ -4,7 +4,7 @@ import { useRouter } from 'expo-router';
 import React, { useEffect, useState } from 'react';
 //import { FontAwesome } from '@expo/vector-icons';
 //import FontAwesome from '@expo/vector-icons/FontAwesome';
-import { StyleSheet, Text, View, TouchableOpacity, FlatList, requireNativeComponent} from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity, FlatList, requireNativeComponent, ActivityIndicator} from 'react-native';
 
 import data from '@/base/opara.json';
 import { Answer, Question } from '@/types/login';
@@ -62,6 +62,7 @@ const loadQuestion = (list: Question[]) => {
 
 
 const handleOptionValidate = () => {
+   console.log('2')
     if (!question) return;
 
     if (!selectedOption) {
@@ -76,7 +77,7 @@ const handleOptionValidate = () => {
     }
 };
 const nextQuestion = () => {
-
+  console.log('1')
     setSelectedOption('');
     setAnswered(false);
 
@@ -92,20 +93,24 @@ useEffect(() => {
     loadQuestion(questions);
 
 }, []);
+  
+  if (!question) {
+    return (
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
+        <ActivityIndicator size="large" color={Color.Primary}/>
+      </View>
+    );
+  }
   return ( 
-    <>
-     <Score ponts={points} />
-    {
-      question ?
     <View style={styles.container}>
-    
+      <Score ponts={points} />
     
       <View style={styles.containerText}>
         <Text style={styles.header}>APERGUNTA</Text>
         <Text style={styles.quiz}>{question.pergunta}</Text>
       </View>
       <View style={styles.containerOptions}>
-        {Object.entries(question.alternativa).map(([key, value]) => (
+        {question?.alternativa && Object.entries(question.alternativa).map(([key, value]) => (
           <BtnOption
             selected={selectedOption}
             correct={question.resposta_correta}
@@ -132,9 +137,7 @@ useEffect(() => {
 </TouchableOpacity>
     </View>
     </View>
-     :<></>
-      }
-    </>
+     
   );}
 
 const styles = StyleSheet.create({
