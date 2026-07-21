@@ -7,7 +7,8 @@ import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity} from 'react-native';
 
 function handleIniciarPress(route:any) {
-  route.push('/login');
+  //route.push('/login');
+  route.push('/(tabs)/quiz');
 }
 
 function handleCriarContaPress(route:any) {

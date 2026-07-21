@@ -1,3 +1,4 @@
+import ThemaGame from '@/components/themaGame';
 import { Color, text_Primary, text_Secondary } from '@/thems/color';
 import { useRouter } from 'expo-router';
 import { Router } from 'expo-router/build/react-navigation';
@@ -21,18 +22,15 @@ const router = useRouter();
       <View>
       </View>
       <View style={styles.containerText}>
-        <Text style={styles.title}>Aprovado</Text>
-        <Text style={styles.subtitle}>Prepara-se para o concurso publico divertindo-se</Text>
+        <Text style={styles.subtitle}>Para qual concurso voce vai se preparar</Text>
       </View>
       
 
     <View style={styles.containerBtn}>
-      <TouchableOpacity style={[styles.BtnOne, styles.Btn]} onPress={() => handleIniciarPress(router)}>
-                <Text style={[styles.BtnText,styles.BtnOneText]}>Iniciar</Text>
-      </TouchableOpacity>
-      <TouchableOpacity style={[styles.BtnTwe, styles.Btn]} onPress={() => handleCriarContaPress(router)}>
-                <Text style={[styles.BtnText,styles.BtnTweText]}>Criar uma conta</Text>
-      </TouchableOpacity>
+      <ThemaGame onPress={()=> router.push('/(tabs)/quiz')} text='Concurso do Minint' iconText='local-police'/>
+      <ThemaGame onPress={()=> router.push('/(tabs)/quiz')} text='Concurso do minsa' iconText='medical-services'/>
+      <ThemaGame onPress={()=> router.push('/(tabs)/quiz')} text='Concurso do Minint' iconText='menu-book'/>
+      <ThemaGame onPress={()=> router.push('/(tabs)/quiz')} text='Concurso do Minint' iconText='local-police'/>
     </View>
       
     </View>
@@ -57,11 +55,11 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   subtitle: {
-    width: 300,
+    fontSize: 24,
+    fontWeight: 'bold',
     textAlign: 'center',
-    fontSize: text_Secondary.size,
     color: Color.Secondary,
-    opacity: 0.8,
+  
   },
   containerBtn:{
     width:"100%",

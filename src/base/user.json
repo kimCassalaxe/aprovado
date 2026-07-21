@@ -1,0 +1,19 @@
+{
+  "User":[{
+    "id":1,
+    "name":"Joaquim Cassalaxe",
+    "email":"kimcassalaxi@gmail.com",
+    "password":"123"
+    },{
+    "id":2,
+    "name":"Carla",
+    "email":"carla@gmail.com",
+    "password":"bom dia"
+    },{
+    "id":3,
+    "name":"Manuel Jose",
+    "email":"manuel@gmail.com",
+    "password":"pera"
+    }
+  ]
+}
